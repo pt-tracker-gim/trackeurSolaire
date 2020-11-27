@@ -12,7 +12,8 @@ Pour modifier l'interface sur Pyscada, on entre d'abord l'adresse ip de celle-ci
 Une fois connecté, la modification est accessible via la partie **Admin**:
 
 		.. image:: pic/admin.PNG
-		
+
+notre groupe est composée : arnaud pilard , germain caze , ugo daroux , vincent adgassies
 		
 
 
