@@ -4,7 +4,7 @@ Tutoriel de Développement Pyscada!
 Ce tutoriel vous apprendra les bases pour la programmation sur Pyscada.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 10
    		 
    tutoriel
    IHM
