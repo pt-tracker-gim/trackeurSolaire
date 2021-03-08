@@ -26,7 +26,7 @@ Port: ``8092``
 
 *Sur MAC*
 
-.. image:: pic/terminal_code.PNG
+.. image:: pic/terminal_code.png
 
 Ouvrir un terminal et entrer la commande:
 
