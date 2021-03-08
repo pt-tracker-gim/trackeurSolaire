@@ -8,6 +8,34 @@ Programmation du Raspberry (PUTTY)
 Le logiciel de programmation utilisée se nomme Putty, dans ce logiciel il est possible de venir écrire des lignes de programme en **python** qui vont nous permettre  de venir **lire et échanger** avec un ordinateur à distance ( dans notre cas un Raspberry pi4) et obtenir des relevées sur un Pc connecté au même réseau que le Raspberry.
 Avec ces programmes nous sommes maintenant capables de demander au Raspberry les valeurs mesurées avec la carte électroniques. 
 
+-------------
+
+**Telecharger PUTYY**
+
+https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
+
+**Connexion a PUTTY**
+
+*Sur WINDOWS*
+
+Adresse: ``95.174.165.162`` 
+
+Port: ``8092`` 
+
+*Sur MAC*
+
+Ouvrir un terminal et entrer la commande:
+
+``ssh PV@95.174.165.162 -p 8092``
+
+*Identification*
+
+Identifiant: ``PV`` 
+
+MDP: ``tracker 2020``
+
+-------------
+
 **Réalisation d'un script**
 
 
