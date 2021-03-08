@@ -4,8 +4,8 @@ Partie logiciel
 Programmation du Raspberry(PUTTY)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Réalisation d'un script
-^^^^^^^^^^^^^^^^^^^^^^^
+**Réalisation d'un script**
+
 
 Dans le programme sur putty, on définit d'abord ce que l'on a besoin pour faire fonctionner le script, puis on exécute un protocole en 3 parties: Le démarrage du script, son exécution et son arrêt.
 Voici l'exemple du programme de script pour putty:
