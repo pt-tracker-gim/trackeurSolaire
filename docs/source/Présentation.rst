@@ -5,12 +5,16 @@ Introduction
 Présentation du tutoriel
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+Contexte du projet 
+^^^^^^^^^^^^^^^^^^
+
 Le département GIM de l’IUT de Bayonne dispose d’un panneau photovoltaïque monté sur un support, celui-ci est orientable sur 2 axes par la commande de deux moteurs (angle d’élévation et angle d’azimut). Ce qui permet de garder un alignement constant avec le soleil afin d’obtenir une production d’énergie optimale. Le projet existant depuis maintenant 7 ans.
 Ce projet aura pour but d’être placer sur le toit du bâtiment de l’IUT afin que les élèves du DUT GIM puissent faire des travaux pratiques dessus.
 
 
-Contexte du projet 
-^^^^^^^^^^^^^^^^^^
+Annalyse de l'existant
+^^^^^^^^^^^^^^^^^^^^^^
 
 Réalisation des années antérieur :
 - L’équation solaire qui permet au tracker de suivre la position du soleil à n’importe quel moment de la journée (angle d’élévation et angle d’azimut en fonction du temps). Cela doit permettre d’augmenter le rendement du panneau. (Début 2013-2014 fin 2017-2018). 
@@ -23,8 +27,3 @@ Réalisation des années antérieur :
 - Conception et test des cartes de mesures. (2020-2021)
 - La réalisation de l’interface web sur Pyscada pour traiter les données mesurées et les exploiter. (2020-2021)
 -Création de tuto qui reprennent la totalité du projet afin d’être utilisé par les année suivante. (2020-2021)
-
-
-Annalyse de l'existant
-^^^^^^^^^^^^^^^^^^^^^^
-
