@@ -17,7 +17,6 @@ Annalyse de l'existant
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Réalisation des années antérieur :
-
 * L’équation solaire qui permet au tracker de suivre la position du soleil à n’importe quel moment de la journée (angle d’élévation et angle d’azimut en fonction du temps). Cela doit permettre d’augmenter le rendement du panneau. (Début 2013-2014 fin 2017-2018).  
 * La conception de l’armoire électrique indépendante du panneau.  (2013-2014).  
 * La mise en place du Raspberry (micro-ordinateur) qui nous permet de faire l’acquisition des mesures à distance de valeurs à travers des cartes composées d’un capteur. Ainsi que de communiquer à distance grâce à une supervision. (2014-2015).  
