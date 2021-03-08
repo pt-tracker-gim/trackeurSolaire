@@ -10,7 +10,7 @@ Contexte du projet
 ^^^^^^^^^^^^^^^^^^
 
 Le département GIM de l’IUT de Bayonne dispose d’un panneau photovoltaïque monté sur un support, celui-ci est orientable sur 2 axes par la commande de deux servomoteurs (angle d’élévation et angle d’azimut). Ce qui permet de garder un alignement constant avec le soleil afin d’obtenir une production d’énergie optimale. 
-  Le projet existant depuis maintenant 7 ans.
+Le projet existant depuis maintenant 7 ans.
 Ce projet aura pour but d’être placer sur le toit du bâtiment de l’IUT afin que les élèves du DUT GIM puissent faire des travaux pratiques dessus.
 
 
