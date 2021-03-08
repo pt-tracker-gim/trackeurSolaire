@@ -16,7 +16,9 @@ https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 
 **Connexion a PUTTY**
 
-*Sur WINDOWS*
+--> **Sur WINDOWS**
+
+.. image:: pic/PUTTY.PNG
 
 Adresse: ``95.174.165.162`` 
 
