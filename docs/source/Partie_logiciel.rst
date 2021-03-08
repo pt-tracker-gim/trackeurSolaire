@@ -24,11 +24,11 @@ Adresse: ``95.174.165.162``
 
 Port: ``8092`` 
 
-*Sur MAC*
-
-.. image:: pic/terminal_code.png
+-->*Sur MAC*
 
 Ouvrir un terminal et entrer la commande:
+
+.. image:: pic/terminal_code.png
 
 ``ssh PV@95.174.165.162 -p 8092``
 
