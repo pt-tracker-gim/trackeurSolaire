@@ -2,8 +2,20 @@ Introduction
 ============
 
 
-Présentation du tutoriel
-^^^^^^^^^^^^^^^^^^^^^^^^
+Présentation de la base de donées
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Cette base de données aura pour but d’aider les futurs étudiants à poursuivre le projet du tracker photovoltaïque et de pouvoir compléter cette base afin d’aider les prochains étudiants .
+
+Elle reprendra le travail réalisé depuis le début de ce projet et des tutoriels qui permettent d’utiliser les différents logiciels. 
+
+Elle se décompose en plusieur partie,  
+
+* **La partie logiciel:** Elle regroupe toutes les informations sur les différents logiciels de programmation utilisés.
+* **La partie mécanique:** Elle regroupe toutes les informations sur les pièces mécaniques qui composent le tracker.
+* **Historique des années précédentes:** Elle regroupe tous les rapport de projet des anciens étudiants sur le projet.
+* **Alimenter la base de données:** Elle expliquera comment ajouter des information a cette base de données.
+
 
 ----------------
 
