@@ -6,8 +6,9 @@ Ce tutoriel vous apprendra les bases pour la programmation sur Pyscada.
 .. toctree::
    :maxdepth: 2
    
-   Historique_année_précédent
-   Modification_tuto
+   Présentation
    Partie_logiciel
    Partie_mécanique
+   Historique_année_précédent
+   Modification_tuto
    
