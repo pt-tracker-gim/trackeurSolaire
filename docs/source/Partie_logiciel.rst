@@ -24,7 +24,7 @@ Adresse: ``95.174.165.162``
 
 Port: ``8092`` 
 
--->*Sur MAC*
+--> **Sur MAC**
 
 Ouvrir un terminal et entrer la commande:
 
