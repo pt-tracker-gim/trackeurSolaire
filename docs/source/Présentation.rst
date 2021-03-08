@@ -1,11 +1,11 @@
 Introduction
 ============
 
-----------------
+
 Présentation du tutoriel
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-----------------
+
 Contexte du projet 
 ^^^^^^^^^^^^^^^^^^
 
@@ -15,7 +15,7 @@ Le projet existant depuis maintenant 7 ans.
 
 Ce projet aura pour but d’être placer sur le toit du bâtiment de l’IUT afin que les élèves du DUT GIM puissent faire des travaux pratiques dessus.  
 
-----------------
+
 Annalyse de l'existant
 ^^^^^^^^^^^^^^^^^^^^^^
 
