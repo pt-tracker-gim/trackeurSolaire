@@ -1,7 +1,6 @@
 Introduction
 ============
 
-----------------
 
 Présentation du tutoriel
 ^^^^^^^^^^^^^^^^^^^^^^^^
