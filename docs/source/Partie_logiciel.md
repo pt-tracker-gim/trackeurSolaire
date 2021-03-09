@@ -70,6 +70,7 @@ En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_202
 
 
 **Exemple de communication de base du python** :<br>
+<br>
 **bus.read_byte_data(address, 0x27)** est une commande qui nous permet en communiquant avec la
 Raspberry (bus) de lire une donnée en octet (read_byte_data).<br>
 Pour cela, il faut préciser l’adresse de
