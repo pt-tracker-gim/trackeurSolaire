@@ -99,7 +99,5 @@ http://95.174.165.162:8090 <br>
  identifiant : ``PV``<br>
 mot de passe : ``tracker2020`` <br>
 
-4. Une page s’affiche demandant un login et un password
-Login : pi
-Password : trackeriut
+
 
