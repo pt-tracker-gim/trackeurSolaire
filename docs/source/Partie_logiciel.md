@@ -5,17 +5,19 @@
 ### Présentation
 
 Le logiciel de programmation utilisée se nomme Putty, dans ce logiciel il est possible de venir écrire des lignes de programme en **python** qui vont nous permettre  de venir **lire et échanger** avec un ordinateur à distance ( dans notre cas un Raspberry pi4) et obtenir des relevées sur un Pc connecté au même réseau que le Raspberry.
+<br>
 Avec ces programmes nous sommes maintenant capables de demander au Raspberry les valeurs mesurées avec la carte électroniques. 
 
 -------------
 
-**Telecharger PUTYY**
+### Telecharger PUTYY
 
 https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 
-**Connexion a PUTTY**
 
---> **Sur WINDOWS**
+### Connexion a PUTTY
+
+#### -->SUR WINDOWS
 
 .. image:: pic/PUTTY.PNG
 
