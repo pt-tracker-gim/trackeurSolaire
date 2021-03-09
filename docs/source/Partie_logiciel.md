@@ -1,9 +1,8 @@
-Partie logiciel
-===============
+# Partie logiciel
 
-Programmation du Raspberry (PUTTY)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**Présentation**
+## Programmation du Raspberry (PUTTY)
+
+### Présentation
 
 Le logiciel de programmation utilisée se nomme Putty, dans ce logiciel il est possible de venir écrire des lignes de programme en **python** qui vont nous permettre  de venir **lire et échanger** avec un ordinateur à distance ( dans notre cas un Raspberry pi4) et obtenir des relevées sur un Pc connecté au même réseau que le Raspberry.
 Avec ces programmes nous sommes maintenant capables de demander au Raspberry les valeurs mesurées avec la carte électroniques. 
