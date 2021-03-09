@@ -32,7 +32,7 @@ Ouvrir un terminal et entrer la commande:
 
 .. image:: pic/terminal_code.png
 
-**Identification**
+**Identification**:
 
 **Identifiant**: ``PV`` 
 
