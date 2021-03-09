@@ -8,7 +8,7 @@ Ce tutoriel vous apprendra les bases pour la programmation sur Pyscada.
    :maxdepth: 2
    
    Présentation
-   Partie_logiciel
+   ./Partie_logiciel.md
    Partie_mécanique
    Historique_année_précédent
    Modification_tuto
