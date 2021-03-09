@@ -15,12 +15,26 @@
 
 ## Texte
 
-**Crée un titre:** ``# titre``
+* **Crée un titre:**``# titre``
+* **Crée un sous-titre:**``## sous-titre``
+* **etc... jusqu'a 6 sous titre** ``######``
 
-**Crée un sous-titre:** ``## sous-titre``
+<br>
 
-**etc...**
+* **Pour effectuer des retour a la ligne:**  ``<br>``
 
+<br>
 
+* **Texte en gras:** ``**texte**``
+
+* **Texte en italique:** ``*texte*``
+
+* **Aligné un texte (center; left; right):**``<h4 align="center">texte</h4>``
+  * H4 représente la taille du texte
+ 
+ <br> 
+ 
+* **Ligne pour délimité des parties:** ``-----``
 ## Image
 
+ 
