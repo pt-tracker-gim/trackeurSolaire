@@ -1,9 +1,6 @@
-Introduction
-============
+# Introduction
 
-
-Présentation de la base de donées
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+## Présentation de la base de donées
 
 Cette base de données aura pour but d’aider les futurs étudiants à poursuivre le projet du tracker photovoltaïque et de pouvoir compléter cette base afin d’aider les prochains étudiants .
 
@@ -19,8 +16,8 @@ Elle se décompose en plusieur partie,
 
 ----------------
 
-Contexte du projet 
-^^^^^^^^^^^^^^^^^^
+## Contexte du projet 
+
 
 Le département GIM de l’IUT de Bayonne dispose d’un panneau photovoltaïque monté sur un support, celui-ci est orientable sur 2 axes par la commande de deux servomoteurs (angle d’élévation et angle d’azimut). Ce qui permet de garder un alignement constant avec le soleil afin d’obtenir une production d’énergie optimale.  
 
@@ -30,10 +27,9 @@ Ce projet aura pour but d’être placer sur le toit du bâtiment de l’IUT afi
 
 ----------------
 
-Annalyse de l'existant
-^^^^^^^^^^^^^^^^^^^^^^
+## Annalyse de l'existant
 
-*Réalisation des années antérieur :*
+### Réalisation des années antérieur
 
 * L’équation solaire qui permet au tracker de suivre la position du soleil à n’importe quel moment de la journée (angle d’élévation et angle d’azimut en fonction du temps). Cela doit permettre d’augmenter le rendement du panneau. (Début 2013-2014 fin 2017-2018).  
 * La conception de l’armoire électrique indépendante du panneau. (2013-2014).  
