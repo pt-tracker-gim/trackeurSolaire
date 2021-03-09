@@ -44,5 +44,7 @@
 ## Image
 
 * **Ajouter une image**: ``<img src="./pic/dossier/image.PNG">``
+   * Dossier: Indiquer le nom du dossier ou la photo se situe 
+   * Image: nom de l'image
 
  
