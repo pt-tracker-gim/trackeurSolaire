@@ -70,12 +70,12 @@ En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_202
 
 
 **Exemple de communication de base du python** :<br>
-bus.read_byte_data(address, 0x27) est une commande qui nous permet en communiquant avec la
+**bus.read_byte_data(address, 0x27)** est une commande qui nous permet en communiquant avec la
 Raspberry (bus) de lire une donnée en octet (read_byte_data).<br>
 Pour cela, il faut préciser l’adresse de
 la carte de mesure que l’on veut interroger (address) ainsi que le registre que l’on veut lire qui est
 codé en valeur hexadécimale (0x27). <br>
-bus.write_byte_data(address, 0x27, 0xff) est une commande fonctionnant exactement comme la
+**bus.write_byte_data(address, 0x27, 0xff)** est une commande fonctionnant exactement comme la
 commande ci-dessus, elle sert à écrire une valeur dans un registre.
 
 -------------
