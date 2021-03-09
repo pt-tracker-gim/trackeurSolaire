@@ -22,14 +22,12 @@ https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 
 <img src="https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG">
 
-
 **Adresse:** ``95.174.165.162`` 
 
 **Port:** ``8092`` 
 
 <h4 align="center">SUR MAC</p>
 <br>
-
 Ouvrir un terminal et entrer la commande:
 ``ssh PV@95.174.165.162 -p 8092``
 
@@ -52,7 +50,7 @@ Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre
 
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/ouvrir.png">
 
-*Lister un autre dossier, par exemple : ls -l scripts_2020/
+*Rentrer dans le dossier, par exemple : ls -l scripts_2020/
  
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/lister.png">
 
