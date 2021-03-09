@@ -27,7 +27,7 @@ https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 **Port:** ``8092`` 
 
 <h4 align="center">SUR MAC</p>
-
+<br>
 Ouvrir un terminal et entrer la commande:
 ``ssh PV@95.174.165.162 -p 8092``
 
