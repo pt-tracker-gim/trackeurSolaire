@@ -46,11 +46,11 @@ Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre
 
 *Pour lister un dossier: ls -l
 
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/ls20-l.png>
+<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/ouvrir.png">
 
 *Lister un autre dossier, par exemple : ls -l scripts_2020/
  
-.. image:: pic/partie logiciel/ls -l scripts_2020:.png
+<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/lister.png">
 
 -------------
 
