@@ -28,15 +28,15 @@ Port: ``8092``
 
 Ouvrir un terminal et entrer la commande:
 
-.. image:: pic/terminal_code.png
-
 ``ssh PV@95.174.165.162 -p 8092``
 
-*Identification*
+.. image:: pic/terminal_code.png
 
-Identifiant: ``PV`` 
+**Identification**
 
-MDP: ``tracker 2020``
+**Identifiant**: ``PV`` 
+
+**MDP**: ``tracker 2020``
 
 -------------
 
