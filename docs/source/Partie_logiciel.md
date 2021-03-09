@@ -52,11 +52,13 @@ En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_202
 <br>
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/ouvrir.png">
 <br>
+
 * Pour Rentrer dans le dossier, par exemple : ``ls -l scripts_2020/`` <br>
  voici les dosier present dans ce scripts
 <br>
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/lister.png">
 <br>
+
 * Pour éditer le fichier courant.py :``nano scripts_2020/courant.py``
 <br>
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/Script_tension.PNG">
