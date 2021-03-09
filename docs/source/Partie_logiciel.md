@@ -48,7 +48,6 @@ Ouvrir un terminal et entrer la commande:
 Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre :
 
 * Pour lister un dossier: ls -l
-<br>
 En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_2020) qui regroupe tout les programmes qui vont nous etre utile pour le raspberry 
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/ouvrir.png">
 
