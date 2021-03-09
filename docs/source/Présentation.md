@@ -6,7 +6,7 @@ Cette base de données aura pour but d’aider les futurs étudiants à poursuiv
 
 Elle reprendra le travail réalisé depuis le début de ce projet et des tutoriels qui permettent d’utiliser les différents logiciels. 
 
-Elle se décompose en plusieur partie,  
+Elle se décompose en plusieur partie:  
 
 * **La partie logiciel:** Elle regroupe toutes les informations sur les différents logiciels de programmation utilisés.
 * **La partie mécanique:** Elle regroupe toutes les informations sur les pièces mécaniques qui composent le tracker.
