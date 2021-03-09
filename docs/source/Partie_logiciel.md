@@ -14,24 +14,30 @@ Avec ces programmes nous sommes maintenant capables de demander au Raspberry les
 
 https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 
+-------------
 
 ### Connexion a PUTTY
 
-#### -->SUR WINDOWS
+<img src="https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG" height="302px" width="269px" align="right"/>
 
-.. image:: pic/PUTTY.PNG
+#### --> SUR WINDOWS
+
 
 Adresse: ``95.174.165.162`` 
 
 Port: ``8092`` 
 
---> **Sur MAC**
+<br><br><br><br><br>
+
+#### --> SUR MAC
 
 Ouvrir un terminal et entrer la commande:
 
 ``ssh PV@95.174.165.162 -p 8092``
 
 .. image:: pic/terminal_code.png
+
+-------------
 
 **Identification**:
 
