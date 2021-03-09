@@ -94,8 +94,12 @@ n’importe où.<br>
 **Méthode de connexion à Pyscada :**<br>
 1.  cliquer sur le lien si dessous 
 http://95.174.165.162:8090 <br>
-2. Ensuite ouvrir une page web, et dans la barre de recherche tapez l’adresse IP : 10.3.208.226.
-3. Une page s’affiche demandant un login et un password
+
+2. Apres avoir cliquer sur le lien s'identifier <br>
+ identifiant : ``PV``
+mot de passe : ``tracker2020`` <br>
+
+4. Une page s’affiche demandant un login et un password
 Login : pi
 Password : trackeriut
 
