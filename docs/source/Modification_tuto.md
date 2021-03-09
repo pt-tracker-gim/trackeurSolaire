@@ -12,6 +12,10 @@
 
 <img src="./pic/Modification_tuto/Dossier_source.PNG">
 
+## Editer une page
+
+<img src="./pic/Modification_tuto/editer_page.PNG"> 
+
 
 ## Texte
 
@@ -35,6 +39,10 @@
  <br> 
  
 * **Ligne pour délimité des parties:** ``-----``
+
+
 ## Image
+
+* **Ajouter une image**: ``<img src="./pic/dossier/image.PNG">``
 
  
