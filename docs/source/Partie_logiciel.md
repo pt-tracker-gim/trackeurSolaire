@@ -51,9 +51,13 @@ Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre
 
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/ouvrir.png">
 
-*Rentrer dans le dossier, par exemple : ls -l scripts_2020/
+En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_2020) qui regroupe tout les programmes qui vont nous etre utile pour le raspberry 
+*Pour Rentrer dans le dossier, par exemple : ls -l scripts_2020/
  
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/lister.png">
+
+voici les dosier present dans ce scrpits 
+
 
 -------------
 
