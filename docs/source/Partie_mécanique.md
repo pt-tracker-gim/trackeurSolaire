@@ -1,21 +1,20 @@
-Partie mecanique 
-================
+# Partie mecanique 
 
-Carte de mesure
-^^^^^^^^^^^^^^^
 
-Boitier 3D
-^^^^^^^^^^
+## Carte de mesure
 
-Servomoteur
-^^^^^^^^^^^
+<img src="https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG" align="right"/>
 
-Panneau Phtotovoltaiques
-^^^^^^^^^^^^^^^^^^^^^^^^
+### Boitier 3D
 
-Controleur de charge (MPPT)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ ![alt text](https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG)align="right"/>
 
-Raspberry
-^^^^^^^^^
+sfqsdqsdqs
+qsdq
+sdqs
+<br> <br> <br> 
+dqs
+dqs
+dqs
+d
 
