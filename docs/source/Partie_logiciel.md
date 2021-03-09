@@ -17,19 +17,22 @@ https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 -------------
 
 ### Connexion a PUTTY
-#### --> SUR WINDOWS
+ 
+<h4 align="center">SUR WINDOWS</p>
+
 <img src="https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG">
 
 **Adresse:** ``95.174.165.162`` 
 
 **Port:** ``8092`` 
 
-#### --> SUR MAC
+<h4 align="center">SUR MAC</p>
 
 Ouvrir un terminal et entrer la commande:
 ``ssh PV@95.174.165.162 -p 8092``
 
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/terminal_code.png">
+
 
 
 ### Identification:
@@ -43,13 +46,11 @@ Ouvrir un terminal et entrer la commande:
 
 Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre :
 
-**Pour lister un dossier: ls -l**
+*Pour lister un dossier: ls -l
 
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/ouvrir.png">
 
-En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_2020) qui regroupe tout les programmes qui vont nous etre utile pour le raspberry 
-
-**Lister un autre dossier, par exemple : ls -l scripts_2020/**
+*Lister un autre dossier, par exemple : ls -l scripts_2020/
  
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/lister.png">
 
