@@ -20,9 +20,9 @@ https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 #### --> SUR WINDOWS
 <img src="https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG">
 
-Adresse: ``95.174.165.162`` 
+**Adresse:** ``95.174.165.162`` 
 
-Port: ``8092`` 
+**Port:** ``8092`` 
 
 #### --> SUR MAC
 
