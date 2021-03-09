@@ -17,25 +17,19 @@ https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 -------------
 
 ### Connexion a PUTTY
-
-<img src="https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG" height="269px" width="302px" align="right"/>
-
 #### --> SUR WINDOWS
-
+<img src="https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG">
 
 Adresse: ``95.174.165.162`` 
 
 Port: ``8092`` 
 
-<br><br><br><br><br><br>
-
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/terminal_code.png" height="182px" width="291px" align="right"/>
-
 #### --> SUR MAC
 
 Ouvrir un terminal et entrer la commande:
-
 ``ssh PV@95.174.165.162 -p 8092``
+
+<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/terminal_code.png">
 
 
 -------------
