@@ -91,7 +91,7 @@ nommé PyScada. Avec ce logiciel, nous pouvons récupérer les valeurs de nos di
 mesure, puis les afficher en graphiques (ou autres), les enregistrer, et y avoir accès à tout moment et
 n’importe où.<br>
 **Méthode de connexion à Pyscada :**<br>
-1. Connexion à PyScada :
+1.  cliquer sur le lien si dessous 
 
 http://95.174.165.162:8090 <br>
 2. Ensuite ouvrir une page web, et dans la barre de recherche tapez l’adresse IP : 10.3.208.226.
