@@ -25,7 +25,7 @@ https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 **Port:** ``8092`` <br>
 
 <img src="./pic/PUTTY.PNG">
-<img src="https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG">
+
 
 
 
