@@ -32,8 +32,6 @@ Ouvrir un terminal et entrer la commande:
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/terminal_code.png">
 
 
--------------
-
 ### Identification:
 
 **Identifiant**: ``PV`` 
@@ -41,6 +39,7 @@ Ouvrir un terminal et entrer la commande:
 **MDP**: ``tracker 2020``
 
 -------------
+### Commande sur PUTTY
 
 Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre :
 
