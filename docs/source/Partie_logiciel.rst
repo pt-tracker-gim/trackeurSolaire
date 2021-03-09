@@ -40,6 +40,21 @@ Ouvrir un terminal et entrer la commande:
 
 -------------
 
+Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre :
+
+*Pour lister un dossier: ls -l
+
+.. image:: pic/partie logiciel/ls -l.png
+
+*Lister un autre dossier, par exemple : ls -l scripts_2020/
+ 
+.. image:: pic/partie logiciel/ls -l scripts_2020:.png
+
+
+
+
+-------------
+
 **Réalisation d'un script**
 
 
