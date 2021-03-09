@@ -62,7 +62,7 @@ En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_202
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/lister.png">
 <br>
 
-* Pour éditer le fichier courant.py :``nano scripts_2020/courant.py``
+* Pour éditer le fichier courant.py par exemple:``nano scripts_2020/courant.py``
 <br>
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/Script_tension.PNG">
 
