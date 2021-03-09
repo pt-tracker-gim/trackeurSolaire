@@ -66,9 +66,9 @@ En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_202
 <br>
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/Script_tension.PNG">
 
-* Ensuite entrer ``python`` pour rentrer dans le programme et pouvoir exécuter les lignes de programmes <br>
+* Exécuter un fichier python (courant.py) dans scripts_2020 : python3 scripts_2020/courant.py<br>
 
-* Pour un copier fichier par exemple courant.py du dossier scripts_2019 vers le dossier scripts_2020 : **cp scripts_2019/courant.py scripts_2020/.**<br>
+* Pour copier un fichier par exemple (courant.py) du dossier scripts_2019 vers le dossier scripts_2020 : **cp scripts_2019/courant.py scripts_2020/.**<br>
 
 **D'autres Exemple de communication de base du python** :<br>
 <br>
