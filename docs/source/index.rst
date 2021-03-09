@@ -10,6 +10,6 @@ Ce tutoriel vous apprendra les bases pour la programmation sur Pyscada.
    Présentation
    ./Partie_logiciel.md
    Partie_mécanique
-   Historique_année_précédent
+   ./Historique_année_précédent.md
    Modification_tuto
    
