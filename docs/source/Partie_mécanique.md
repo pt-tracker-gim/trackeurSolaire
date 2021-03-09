@@ -7,14 +7,7 @@
 
 ### Boitier 3D
 
- ![alt text](https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG)align="right"/>
+ ![alt text](https://raw.githubusercontent.com/pt-tracker-gim/trackeurSolaire/master/docs/source/pic/PUTTY.PNG)
 
-sfqsdqsdqs
-qsdq
-sdqs
-<br> <br> <br> 
-dqs
-dqs
-dqs
-d
+
 
