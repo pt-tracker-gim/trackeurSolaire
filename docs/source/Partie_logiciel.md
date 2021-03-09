@@ -32,7 +32,6 @@ Ouvrir un terminal et entrer la commande:
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/terminal_code.png">
 
 
-
 ### Identification:
 
 **Identifiant**: ``PV`` 
@@ -44,11 +43,13 @@ Ouvrir un terminal et entrer la commande:
 
 Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre :
 
-*Pour lister un dossier: ls -l
+**Pour lister un dossier: ls -l**
 
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/ouvrir.png">
 
-*Lister un autre dossier, par exemple : ls -l scripts_2020/
+En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_2020) qui regroupe tout les programmes qui vont nous etre utile pour le raspberry 
+
+**Lister un autre dossier, par exemple : ls -l scripts_2020/**
  
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie_logiciel/lister.png">
 
