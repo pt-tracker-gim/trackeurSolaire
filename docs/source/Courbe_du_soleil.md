@@ -16,12 +16,12 @@ Nous allons nous servir des sites « Sunearthtools » et « Solartopo ». <br>
 **Hauteur ou Élévation**, h est la hauteur angulaire du Soleil sur l’horizon (plan
 vertical).<br>
 **Azimut a**, l’angle entre le sud et la projection au sol de la droite issue de la
-direction terre-soleil (plan horizontal).
+direction terre-soleil (plan horizontal).<br>
 Pour récupérer le plus d’énergie du soleil, il faut que les rayons soient
 perpendiculaires au panneau, pour cela nous avons besoin de connaître
-l’azimut et l’élévation afin d’adapter la position du panneau.
+l’azimut et l’élévation afin d’adapter la position du panneau.<br>
 En effet, un tracker solaire sur deux axes permet d’améliorer de 35% le
-rendement de production par rapport à un panneau fixe.
+rendement de production par rapport à un panneau fixe.<br>
 L’axe horizontal sert à régler l’azimut, ce qui nous permet de suivre l’avancée
 du soleil dans la journée, tandis que l’axe vertical, pour l’élévation, permet
 d’être plus précis et de pouvoir régler l’orientation en fonction des saisons.
