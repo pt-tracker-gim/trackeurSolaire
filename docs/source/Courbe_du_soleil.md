@@ -10,7 +10,7 @@ sites internet qui permettent de calculer la position du soleil en fonction des
 coordonnées géographiques afin de pouvoir les comparer à nos résultats.
 Nous allons nous servir des sites « Sunearthtools » et « Solartopo ». <br>
 
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/terminal_code.png">
+<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/Image1.png">
 
 Hauteur ou Élévation, h est la hauteur angulaire du Soleil sur l’horizon (plan
 vertical).
