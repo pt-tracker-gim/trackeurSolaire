@@ -16,7 +16,7 @@ l’infiltration de l’eau dans le boitier. Pour rigidifier la structure, un c�
 mis en place entre le boitier et le panneau. Dernier point à modifier pour le
 futur boitier, les câbles d’alimentation des moteurs et celui du panneau n’avait
 pas assez de place dans le boitier.<br>
-
+<img src="/>
 La première étape a été de récupérer les pièces sur SolidWorks du précédant
 assemblage panneau/moteur/boitier. En récupérant ces différentes pièces, on
 pouvait récupérer les différentes parties qu’on allait garder et améliorer. Nous
