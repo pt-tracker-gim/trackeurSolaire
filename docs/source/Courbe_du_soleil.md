@@ -53,6 +53,7 @@ précises car elles prenaient en compte de nombreux facteurs qui pouvaient
 influer sur la position du soleil. Ci-dessous nous allons expliquer les équations qui
 nous permettent d’obtenir l’azimute et l’élévation ainsi que celles qui en
 découlent.<br>
+
 **Explication de l’équation de l’élévation**<br>
 
 Les résultats que nous utilisons de l’équation finale dépendent de deux
@@ -60,8 +61,10 @@ facteurs. L’angle solaire zénithal correspondant à l’angle entre le zénit
 le centre du disque solaire mais également de la réfraction atmosphérique
 qui est une correction qu’on ajoute par rapport aux conditions
 atmosphériques.<br>
+
 Elévation final= 90 – angle solaire du zénith (en deg) + réfraction
 atmosphérique<br>
+
 Ensuite, l’angle solaire correspondant à une équation qui dépend de la
 latitude soit un facteur fixe qu’on prédéfinit au départ sur l’Excel, dans notre
 cas nous prenons la latitude de l’IUT GIM à Montaury. Cette équation prend
