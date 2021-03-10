@@ -45,7 +45,7 @@ De ce fait, il nous a été demandé de revoir les équations qui ont permis
 d’obtenir ces courbes soit l’azimute et l’élévation, les deux éléments
 permettant de caractériser la trajectoire du soleil.<br>
 <br>
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/3.png"><br>
+<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/3.PNG"><br>
 
 Après des recherches assidues, nous avons réussi à obtenir des équations plus
 précises car elles prenaient en compte de nombreux facteurs qui pouvaient
