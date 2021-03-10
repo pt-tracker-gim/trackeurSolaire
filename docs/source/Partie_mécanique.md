@@ -63,7 +63,10 @@ la pièce en vert sur l’assemblage, pour pouvoir positionner le boitier sur le
 moteur vertical.
 Pour assurer cette étanchéité, nous avons pensé à rajouter un cache en
 aluminium sur le boitier et sur le moteur, pour éviter que la pluie entre dans
-celui-ci <br>
+celui-ci.
+
+<br>
+
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie%20mécanique/boitierfinal.png"> <br>
 
 
