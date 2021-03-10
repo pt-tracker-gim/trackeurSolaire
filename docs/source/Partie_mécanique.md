@@ -37,6 +37,7 @@ moteur vertical.
 Pour assurer cette étanchéité, nous avons pensé à rajouter un cache en
 aluminium sur le boitier et sur le moteur, pour éviter que la pluie entre dans
 celui-ci
+<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie%20mécanique/boitier3d.png"> <br>
 
 En plus de la partie métallique, il était nécessaire de fabriquer des pièces en
 plastiques supplémentaire pour le passage du tube moteur supportant le
