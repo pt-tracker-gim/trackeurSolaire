@@ -1,7 +1,7 @@
-# Partie mecanique 
+### Partie mecanique 
 
 
-## Carte de mesure
+## Boitier 3D
 Conception du boitier d’étanchéité
 
 Le panneau solaire est fixé à un moteur, permettant de changer l’inclinaison
