@@ -1,8 +1,38 @@
-## Partie mecanique 
+# Partie mecanique 
+
+### Panneau solaire 
+
+Panneau à 2 axes :<br>
+Le tracker solaire, nous sert de source d’énergie électrique
+continue de caractéristique 12V/150W et de surface 2m². Il a pour
+possibilité d’être monté sur deux axes motorisé permettant de
+suivre la course du soleil et ainsi optimiser son rendement.
 
 
-### Boitier 3D<br>
-**Conception du boitier d’étanchéité**
+
+### Batterie
+
+#### Batterie au Gel Victron 110Ah 12V :
+Dû à l’intermittence des périodes de production, l’installation de la batterie a été
+nécessaire afin de réguler l’intensité. Elle a pour objectif de compenser l’énergie non
+produite par le tracker. La batterie au Gel Victron est composée de matériaux d’une
+grande pureté et de grilles de plomb/calcium qui garantissent à cette batterie au Gel
+un très faible taux d’autodécharge.
+
+### Servomoteur
+
+Il s’agit d’un moteur professionnel avec positionneur
+intégré et fond structural, pour la rotation automatique de
+cellule solaire dans un intervalle de temps adaptable. Ces
+appareils tournent la cellule solaire sur les axes horizontal et
+vertical permettant d’exploiter au maximum le rayonnement
+du soleil.
+Les moteurs solaires sont alimentés par une source externe, 12VDC, et peuvent
+résister à un vent de 130 km/h.
+
+
+## Boitier 3D<br>
+### Conception du boitier d’étanchéité
 
 Le panneau solaire est fixé à un moteur, permettant de changer l’inclinaison
 de celui-ci. Ce moteur est lui-même fixé sur un boitier en aluminium, lui-même
