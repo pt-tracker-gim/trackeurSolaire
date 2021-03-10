@@ -2,7 +2,7 @@
 
 
 ### Boitier 3D<br>
-Conception du boitier d’étanchéité
+**Conception du boitier d’étanchéité**
 
 Le panneau solaire est fixé à un moteur, permettant de changer l’inclinaison
 de celui-ci. Ce moteur est lui-même fixé sur un boitier en aluminium, lui-même
@@ -23,7 +23,7 @@ La première étape a été de récupérer les pièces sur SolidWorks du précé
 assemblage panneau/moteur/boitier. En récupérant ces différentes pièces, on
 pouvait récupérer les différentes parties qu’on allait garder et améliorer. Nous
 
-Figure 19 : Boitier du groupe précédent
+
 
 Licence Pro Écologie Industrielle 22
 avons donc allongé le boitier pour donner plus de place aux câbles à l’intérieur
