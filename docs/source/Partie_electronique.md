@@ -2,6 +2,10 @@
 
 ## Le Raspberry Pi
 
+<img src="./pic/Partie_electronique/Raspberry.PNG" align="center"/>
+
+<br>
+
 Le Raspberry Pi est un nano ordinateur mono carte à
 processeur ARM. Il permet l’exécution de plusieurs variantes du
 système d’exploitation libre GNU/Linux et des logiciels
