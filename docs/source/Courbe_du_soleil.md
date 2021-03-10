@@ -69,16 +69,16 @@ Ensuite, l’angle solaire correspondant à une équation qui dépend de la
 latitude soit un facteur fixe qu’on prédéfinit au départ sur l’Excel, dans notre
 cas nous prenons la latitude de l’IUT GIM à Montaury. Cette équation prend
 également en compte la déclinaison du soleil et l’angle horaire.<br>
+<br>
+<br>
 
 Angle solaire zénithale= Acos [sin(latitude)*sin (déclinaison du soleil)
-+cos(latitude)*cos (déclinaison du soleil) *cos (angle horaire)]*360/2π
++cos(latitude)*cos (déclinaison du soleil) *cos (angle horaire)]*360/2π<br>
+
 Tous les angles dans l’équation sont en radians et nous multiplions le tout
-par 360 et divisons par 2 π pour obtenir l’angle solaire zénithale en degrés.
+par 360 et divisons par 2 π pour obtenir l’angle solaire zénithale en degrés.<br>
 
-Figure 3 : Courbe obtenue les années précédentes
-
-Licence Pro Écologie Industrielle 10
-La déclinaison solaire est l'angle formé par la droite reliant la terre
+**La déclinaison solaire** est l'angle formé par la droite reliant la terre
 au soleil et le plan équatorial.
 
 Angle horaire
