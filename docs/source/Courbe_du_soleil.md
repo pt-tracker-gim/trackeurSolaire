@@ -13,9 +13,9 @@ Nous allons nous servir des sites « Sunearthtools » et « Solartopo ». <br>
 
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/Image1.png"><br>
 <br>
-Hauteur ou Élévation, h est la hauteur angulaire du Soleil sur l’horizon (plan
-vertical).
-Azimut a, l’angle entre le sud et la projection au sol de la droite issue de la
+**Hauteur ou Élévation**, h est la hauteur angulaire du Soleil sur l’horizon (plan
+vertical).<br>
+**Azimut a**, l’angle entre le sud et la projection au sol de la droite issue de la
 direction terre-soleil (plan horizontal).
 Pour récupérer le plus d’énergie du soleil, il faut que les rayons soient
 perpendiculaires au panneau, pour cela nous avons besoin de connaître
