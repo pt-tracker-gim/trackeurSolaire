@@ -46,24 +46,26 @@ d’obtenir ces courbes soit l’azimute et l’élévation, les deux éléments
 permettant de caractériser la trajectoire du soleil.<br>
 <br>
 <img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/3.PNG"><br>
+<br>
 
 Après des recherches assidues, nous avons réussi à obtenir des équations plus
 précises car elles prenaient en compte de nombreux facteurs qui pouvaient
 influer sur la position du soleil. Ci-dessous nous allons expliquer les équations qui
 nous permettent d’obtenir l’azimute et l’élévation ainsi que celles qui en
-découlent.
- Explication de l’équation de l’élévation
+découlent.<br>
+**Explication de l’équation de l’élévation**<br>
+
 Les résultats que nous utilisons de l’équation finale dépendent de deux
 facteurs. L’angle solaire zénithal correspondant à l’angle entre le zénith et
 le centre du disque solaire mais également de la réfraction atmosphérique
 qui est une correction qu’on ajoute par rapport aux conditions
-atmosphériques.
+atmosphériques.<br>
 Elévation final= 90 – angle solaire du zénith (en deg) + réfraction
-atmosphérique
+atmosphérique<br>
 Ensuite, l’angle solaire correspondant à une équation qui dépend de la
 latitude soit un facteur fixe qu’on prédéfinit au départ sur l’Excel, dans notre
 cas nous prenons la latitude de l’IUT GIM à Montaury. Cette équation prend
-également en compte la déclinaison du soleil et l’angle horaire.
+également en compte la déclinaison du soleil et l’angle horaire.<br>
 
 Angle solaire zénithale= Acos [sin(latitude)*sin (déclinaison du soleil)
 +cos(latitude)*cos (déclinaison du soleil) *cos (angle horaire)]*360/2π
