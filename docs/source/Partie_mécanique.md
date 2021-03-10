@@ -7,7 +7,7 @@ Conception du boitier d’étanchéité
 Le panneau solaire est fixé à un moteur, permettant de changer l’inclinaison
 de celui-ci. Ce moteur est lui-même fixé sur un boitier en aluminium, lui-même
 fixé au deuxième moteur permettant de gérer la rotation du panneau. Ce
-moteur est fixé à un tube support.
+moteur est fixé à un tube support.<br>
 Le but de ce boitier est de protéger les deux moteurs de l’humidité et de la
 pluie, et aussi de renforcer la structure qui soutient le panneau. Le problème
 du précédent boitier est surtout l’étanchéité de celui-ci. En effet, les différentes
@@ -15,7 +15,7 @@ plaques étaient vissées entre elles, et de nombreux trous permettaient
 l’infiltration de l’eau dans le boitier. Pour rigidifier la structure, un câble a était
 mis en place entre le boitier et le panneau. Dernier point à modifier pour le
 futur boitier, les câbles d’alimentation des moteurs et celui du panneau n’avait
-pas assez de place dans le boitier.
+pas assez de place dans le boitier.<br>
 
 La première étape a été de récupérer les pièces sur SolidWorks du précédant
 assemblage panneau/moteur/boitier. En récupérant ces différentes pièces, on
