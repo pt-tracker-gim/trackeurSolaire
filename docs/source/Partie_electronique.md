@@ -71,8 +71,12 @@ Le Raspberry pi va donc nous permettre de :
 
 ## Controleur de charge MPPT
 
+<img src="./pic/Partie_electronique/MPPT.PNG">
+
 Le régulateur est indispensable afin d’optimiser la charge de
 la batterie dû aux variations de production énergétique du tracker
 solaire. L’énergie de sortie sera utilisée pour l’alimentation d’un
 réseau de courant continue, par exemple, les servomoteurs et la
 batterie.
+
+
