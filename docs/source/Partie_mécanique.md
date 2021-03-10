@@ -70,9 +70,3 @@ celui-ci <br>
 
 
 
-
-### Boitier 3D
-
-
-
-
