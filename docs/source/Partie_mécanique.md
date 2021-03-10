@@ -8,6 +8,7 @@ Le panneau solaire est fixé à un moteur, permettant de changer l’inclinaison
 de celui-ci. Ce moteur est lui-même fixé sur un boitier en aluminium, lui-même
 fixé au deuxième moteur permettant de gérer la rotation du panneau. Ce
 moteur est fixé à un tube support.<br>
+<br>
 Le but de ce boitier est de protéger les deux moteurs de l’humidité et de la
 pluie, et aussi de renforcer la structure qui soutient le panneau. Le problème
 du précédent boitier est surtout l’étanchéité de celui-ci. En effet, les différentes
