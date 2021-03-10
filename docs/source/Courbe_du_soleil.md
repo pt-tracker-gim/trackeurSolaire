@@ -11,7 +11,7 @@ coordonnées géographiques afin de pouvoir les comparer à nos résultats.
 Nous allons nous servir des sites « Sunearthtools » et « Solartopo ». <br>
 <br>
 
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/3.PNG"><br>
+<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/Image1.png"><br>
 <br>
 **Hauteur ou Élévation**, h est la hauteur angulaire du Soleil sur l’horizon (plan
 vertical).<br>
