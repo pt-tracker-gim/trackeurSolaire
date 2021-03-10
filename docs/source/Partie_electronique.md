@@ -56,3 +56,23 @@ Le Raspberry pi va donc nous permettre de :
 * Piloter les servomoteurs avec python,
 * Gérer la récupération des données météo avec python,
 * Rapatrier des données vers un fichier (Json ou .txt),
+
+L’utilisation du Raspberry Pi B+ V1.2 va nous permettre de faire de la
+programmation et de générer des pages web. En effet, il se comporte comme un microordinateur
+et il est capable de créer des pages web sous format PHP ou HTML.
+Le Raspberry pi va donc nous permettre de :
+* Récupérer les donner de la carte Arduino en python,
+* Calculer la position du soleil avec python,
+* Piloter les servomoteurs avec python,
+* Gérer la récupération des données météo avec python,
+* Rapatrier des données vers un fichier (Json ou .txt),
+* Gérer les données de sécurité du système,
+* Héberger une interface WEB avec HTML, PHP et CSS.
+
+## Controleur de charge MPPT
+
+Le régulateur est indispensable afin d’optimiser la charge de
+la batterie dû aux variations de production énergétique du tracker
+solaire. L’énergie de sortie sera utilisée pour l’alimentation d’un
+réseau de courant continue, par exemple, les servomoteurs et la
+batterie.
