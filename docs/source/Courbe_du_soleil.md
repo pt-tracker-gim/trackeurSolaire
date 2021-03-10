@@ -26,19 +26,19 @@ L’axe horizontal sert à régler l’azimut, ce qui nous permet de suivre l’
 du soleil dans la journée, tandis que l’axe vertical, pour l’élévation, permet
 d’être plus précis et de pouvoir régler l’orientation en fonction des saisons.
 
-Figure 1 : Course apparente du soleil
 
-Licence Pro Écologie Industrielle 8
 Pour obtenir la position exacte du soleil nous nous basons sur l’azimut et
 l’élévation. Ces deux caractéristiques nous permettent d’obtenir la position
 avec exactitude. Pour avoir ces deux indications nous nous appuyons sur de
-nombreux paramètres.
+nombreux paramètres.<br>
 Pour calculer ces deux angles, nous devons effectuer des calculs
 intermédiaires et pour pouvoir les réaliser il faut connaître les coordonnées GPS
-du lieu, la date et l’heure.
+du lieu, la date et l’heure.<br>
 Pour montrer les interactions entre les différentes équations vous trouverez un
-schéma ci-dessous.
-
+schéma ci-dessous.<br>
+<br>
+<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/Image1.png"><br>
+<br>
 En comparant les courbes représentant la trajectoire du soleil obtenu les
 années précédentes par rapport aux valeurs réelles, on remarque un manque
 de précision au coucher et au lever du soleil.
