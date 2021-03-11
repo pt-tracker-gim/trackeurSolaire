@@ -8,3 +8,5 @@ pages:
 - 'Partie_electronique.md'
 - 'Partie_mécanique.md'
 - 'Presentation.md'
+
+theme: readthedocs 
