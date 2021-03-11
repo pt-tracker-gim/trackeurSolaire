@@ -11,8 +11,7 @@
   * Le fichier **Conf** ...
 
 <img src="./pic/Modification_tuto/Dossier_source.PNG">
-
-<br>
+![Screenshot](pic/Modification_tuto/Dossier_source.PNG)
 
 ## Éditer une page
 
