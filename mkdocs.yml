@@ -1,4 +1,10 @@
 site_name: tracker solaire 
 pages:
 - 'index.md'
+- 'Courbe_du_soleil.md'
 - 'Partie_logiciel.md'
+- 'Historique_année_précédent.md'
+- 'Modification_tuto.md'
+- 'Partie_electronique.md'
+- 'Partie_mécanique.md'
+- 'Presentation.md'
