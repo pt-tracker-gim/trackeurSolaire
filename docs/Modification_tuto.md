@@ -10,20 +10,20 @@
   * Le fichier **Index** ...
   * Le fichier **Conf** ...
 
-<img src="./pic/Modification_tuto/Dossier_source.PNG">
 ![Screenshot](pic/Modification_tuto/Dossier_source.PNG)
 
 ## Éditer une page
 
 Pour éditer une page, il suffit de cliquer sur le stylo. 
 
-<img src="./pic/Modification_tuto/editer_page.PNG"> 
+![Screenshot](pic/Modification_tuto/editer_page.PNG")
 
 <br>
 
-Cette page permet de d'écrire et de modifier le texte et les images. 
+Cette page permet de d'écrire et de modifier le texte et les images.
 
-<img src="./pic/Modification_tuto/Page.PNG"> 
+![Screenshot](pic/Modification_tuto/Page.PNG)
+
 
 ## Texte
 
@@ -51,7 +51,7 @@ Cette page permet de d'écrire et de modifier le texte et les images.
 
 ## Image
 
-* **Ajouter une image**: ``<img src="./pic/dossier/image.PNG">``
+* **Ajouter une image**: ``![Screenshot](pic/dossier/image.PNG)``
    * Dossier : Indiquer le nom du dossier ou la photo se situe 
    * Image : nom de l'image
 
