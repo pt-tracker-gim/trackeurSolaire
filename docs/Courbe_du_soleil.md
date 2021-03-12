@@ -35,7 +35,7 @@ du lieu, la date et l’heure.<br>
 Pour montrer les interactions entre les différentes équations vous trouverez un
 schéma ci-dessous.<br>
 <br>
-![Screenshot](pic/Courbe_du_soleil/Image2.PNG) <br>
+![Screenshot](pic/Courbe_du_soleil/image2.png) <br>
 <br>
 En comparant les courbes représentant la trajectoire du soleil obtenu les
 années précédentes par rapport aux valeurs réelles, on remarque un manque
