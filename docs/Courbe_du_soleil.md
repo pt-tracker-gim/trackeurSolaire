@@ -1,4 +1,4 @@
-# Amélioration de l’équation solaire
+# équation du soleil
 
 ## Analyse et solutions
 
