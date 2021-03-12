@@ -70,7 +70,7 @@ celui-ci.
 <br>
 
 
-![Screenshot](pic/partie_mecanique/boitierfinal.PNG) <br>
+![Screenshot](pic/partie_mecanique/boitierfinal.png) <br>
 
 
 
