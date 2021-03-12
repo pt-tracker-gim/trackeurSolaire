@@ -2,7 +2,7 @@
 
 ## Le Raspberry Pi
 
-<img src="./pic/Partie_electronique/Raspberry.PNG">
+<img src="./pic/Partie_electronique/Raspberry.PNG>
 
 <br>
 
@@ -71,7 +71,7 @@ Le Raspberry pi va donc nous permettre de :
 
 ## Controleur de charge MPPT
 
-<img src="./pic/Partie_electronique/MPPT.PNG">
+<img src="./pic/Partie_electronique/MPPT.PNG>
 
 Un générateur photovoltaïque est un générateur qui est fortement non linéaire. En conséquence, pour un même éclairement, la puissance délivrée sera différente selon la charge.
 
