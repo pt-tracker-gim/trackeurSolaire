@@ -67,7 +67,7 @@ En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_202
 * Pour éditer le fichier courant.py par exemple:``nano scripts_2020/courant.py``
 <br>
 
-![Screenshot](pic/partie_logiciel/Script_tension.png)
+![Screenshot](pic/partie_logiciel/Script_tension.PNG)
 
 * Exécuter un fichier python (courant.py) dans scripts_2020 : ``python3 scripts_2020/courant.py<br>``
 
