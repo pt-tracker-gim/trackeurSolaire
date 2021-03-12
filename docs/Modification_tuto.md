@@ -17,7 +17,7 @@
 Pour éditer une page, il suffit de cliquer sur le stylo. 
 
 ![Screenshot](pic/Modification_tuto/editer_page.PNG")
-
+ 
 <br>
 
 Cette page permet de d'écrire et de modifier le texte et les images.
