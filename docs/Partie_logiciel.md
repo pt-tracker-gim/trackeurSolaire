@@ -36,7 +36,7 @@ Ouvrir un terminal et entrer la commande:
 ``ssh PV@95.174.165.162 -p 8092``
 
 
-![Screenshot](pic/terminal_code.PNG)
+![Screenshot](pic/terminal_code.png)
 
 
 ### Identification:
