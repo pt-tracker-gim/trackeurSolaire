@@ -10,8 +10,7 @@ sites internet qui permettent de calculer la position du soleil en fonction des
 coordonnées géographiques afin de pouvoir les comparer à nos résultats.
 Nous allons nous servir des sites « Sunearthtools » et « Solartopo ». <br>
 <br>
-
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/Image1.png"><br>
+![Screenshot](pic/Courbe_du_soleil/Image1.PNG)<br>
 <br>
 **Hauteur ou Élévation**, h est la hauteur angulaire du Soleil sur l’horizon (plan
 vertical).<br>
@@ -36,7 +35,7 @@ du lieu, la date et l’heure.<br>
 Pour montrer les interactions entre les différentes équations vous trouverez un
 schéma ci-dessous.<br>
 <br>
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/image2.png"><br>
+![Screenshot](pic/Courbe_du_soleil/Image2.PNG) <br>
 <br>
 En comparant les courbes représentant la trajectoire du soleil obtenu les
 années précédentes par rapport aux valeurs réelles, on remarque un manque
@@ -45,7 +44,7 @@ De ce fait, il nous a été demandé de revoir les équations qui ont permis
 d’obtenir ces courbes soit l’azimute et l’élévation, les deux éléments
 permettant de caractériser la trajectoire du soleil.<br>
 <br>
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/Courbe_du_soleil/3.PNG"><br>
+![Screenshot](pic/Courbe_du_soleil/3.PNG)<br>
 <br>
 
 Après des recherches assidues, nous avons réussi à obtenir des équations plus
