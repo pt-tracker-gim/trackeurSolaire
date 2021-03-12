@@ -1,11 +1,11 @@
 site_name: tracker solaire 
 pages:
 - 'Présentation.md'
-- 'Courbe_du_soleil.md'
+- 'Partie_mécanique.md'
 - 'Partie_logiciel.md'
+- 'Partie_electronique.md'
+- 'Courbe_du_soleil.md'
 - 'Historique_année_précédent.md'
 - 'Modification_tuto.md'
-- 'Partie_electronique.md'
-- 'Partie_mécanique.md'
 
 theme: readthedocs 
