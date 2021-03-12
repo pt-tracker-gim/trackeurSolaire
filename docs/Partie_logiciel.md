@@ -54,20 +54,20 @@ Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre
 En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_2020) qui regroupe tout les programmes qui vont nous etre utile pour le raspberry 
 <br>
 
-![Screenshot](pic/partie_logiciel/ouvrir.PNG)
+![Screenshot](pic/partie_logiciel/ouvrir.png)
 <br>
 
 * Pour Rentrer dans le dossier, par exemple : ``ls -l scripts_2020/`` <br>
  voici les dosier present dans ce scripts
 <br>
 
-![Screenshot](pic/partie_logiciel/lister.PNG)
+![Screenshot](pic/partie_logiciel/lister.png)
 <br>
 
 * Pour éditer le fichier courant.py par exemple:``nano scripts_2020/courant.py``
 <br>
 
-![Screenshot](pic/partie_logiciel/Script_tension.PNG)
+![Screenshot](pic/partie_logiciel/Script_tension.png)
 
 * Exécuter un fichier python (courant.py) dans scripts_2020 : ``python3 scripts_2020/courant.py<br>``
 
