@@ -35,7 +35,7 @@ du lieu, la date et l’heure.<br>
 Pour montrer les interactions entre les différentes équations vous trouverez un
 schéma ci-dessous.<br>
 <br>
-![Screenshot](pic/Courbe_du_soleil/Image2.png) <br>
+![Screenshot](pic/Courbe_du_soleil/Image2.PNG) <br>
 <br>
 En comparant les courbes représentant la trajectoire du soleil obtenu les
 années précédentes par rapport aux valeurs réelles, on remarque un manque
@@ -44,7 +44,7 @@ De ce fait, il nous a été demandé de revoir les équations qui ont permis
 d’obtenir ces courbes soit l’azimute et l’élévation, les deux éléments
 permettant de caractériser la trajectoire du soleil.<br>
 <br>
-![Screenshot](pic/Courbe_du_soleil/3.png)<br>
+![Screenshot](pic/Courbe_du_soleil/3.PNG)<br>
 <br>
 
 Après des recherches assidues, nous avons réussi à obtenir des équations plus
