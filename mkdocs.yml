@@ -1,6 +1,6 @@
 site_name: tracker solaire 
 pages:
-- 'Presentation.md'
+- 'Présentation.md'
 - 'Courbe_du_soleil.md'
 - 'Partie_logiciel.md'
 - 'Historique_année_précédent.md'
