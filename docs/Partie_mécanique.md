@@ -49,8 +49,7 @@ futur boitier, les câbles d’alimentation des moteurs et celui du panneau n’
 pas assez de place dans le boitier.<br>
 
  
-![Screenshot](pic/partie_mecanique/boitier3d.PNG) 
-
+![Screenshot](pic/partie_mecanique/boitier3d.png) 
 <br>
 
 La première étape a été de récupérer les pièces sur SolidWorks du précédant
