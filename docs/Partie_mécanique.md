@@ -48,7 +48,8 @@ mis en place entre le boitier et le panneau. Dernier point à modifier pour le
 futur boitier, les câbles d’alimentation des moteurs et celui du panneau n’avait
 pas assez de place dans le boitier.<br>
 
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie%20mécanique/boitier3d.png"> <br>
+ 
+![Screenshot](pic/partie_mecanique/boitier3d.PNG) <br>
 
 La première étape a été de récupérer les pièces sur SolidWorks du précédant
 assemblage panneau/moteur/boitier. En récupérant ces différentes pièces, on
@@ -67,8 +68,8 @@ celui-ci.
 
 <br>
 
-<img src="https://github.com/pt-tracker-gim/trackeurSolaire/blob/master/docs/source/pic/partie%20mécanique/boitierfinal.png"> <br>
 
+![Screenshot](pic/partie_mecanique/boitierfinal.PNG) <br>
 
 
 
