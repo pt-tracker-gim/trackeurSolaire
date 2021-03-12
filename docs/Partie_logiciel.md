@@ -24,8 +24,8 @@ https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 **Adresse:** ``95.174.165.162`` 
 **Port:** ``8092`` <br>
 
-<img src="./pic/PUTTY.PNG">
-![Screenshot](pic/PUTTY.PNG")
+
+![Screenshot](pic/PUTTY.PNG)
 
 
 
@@ -36,7 +36,7 @@ Ouvrir un terminal et entrer la commande:
 ``ssh PV@95.174.165.162 -p 8092``
 
 
-![Screenshot](pic/terminal_code.PNG")
+![Screenshot](pic/terminal_code.PNG)
 
 
 ### Identification:
@@ -54,20 +54,20 @@ Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre
 En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_2020) qui regroupe tout les programmes qui vont nous etre utile pour le raspberry 
 <br>
 
-![Screenshot](pic/partie_logiciel/ouvrir.PNG")
+![Screenshot](pic/partie_logiciel/ouvrir.PNG)
 <br>
 
 * Pour Rentrer dans le dossier, par exemple : ``ls -l scripts_2020/`` <br>
  voici les dosier present dans ce scripts
 <br>
 
-![Screenshot](pic/partie_logiciel/lister.PNG")
+![Screenshot](pic/partie_logiciel/lister.PNG)
 <br>
 
 * Pour éditer le fichier courant.py par exemple:``nano scripts_2020/courant.py``
 <br>
 
-![Screenshot](pic/partie_logiciel/Script_tension.PNG")
+![Screenshot](pic/partie_logiciel/Script_tension.PNG)
 
 * Exécuter un fichier python (courant.py) dans scripts_2020 : ``python3 scripts_2020/courant.py<br>``
 
