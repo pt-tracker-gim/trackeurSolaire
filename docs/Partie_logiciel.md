@@ -43,7 +43,7 @@ Ouvrir un terminal et entrer la commande:
 
 **Identifiant**: ``PV`` 
 
-**MDP**: ``tracker 2020``
+**MDP**: ``*********``
 
 -------------
 ### Commande sur PUTTY
