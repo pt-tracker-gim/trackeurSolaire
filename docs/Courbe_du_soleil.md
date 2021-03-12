@@ -1,4 +1,4 @@
-# équation du soleil
+# Équation du soleil
 
 ## Analyse et solutions
 
