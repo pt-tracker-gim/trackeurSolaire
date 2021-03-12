@@ -2,7 +2,7 @@
 
 ## Le Raspberry Pi
 
-<img src="./pic/Partie_electronique/Raspberry.PNG>
+<img src="./pic/Partie_electronique/Raspberry.png>
 
 <br>
 
