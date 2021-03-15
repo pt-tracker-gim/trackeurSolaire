@@ -34,6 +34,7 @@ Alors rajouter **getkeep.md**.
 
 ![Screenshot](pic/Modification_tuto/crée_dossier.PNG)
 
+---------
 
 ## Éditer une page
 
@@ -46,6 +47,7 @@ Cette page permet de d'écrire et de modifier le texte et les images.
 
 ![Screenshot](pic/Modification_tuto/Page.PNG)
 
+---------
 
 ## Texte
 
@@ -53,7 +55,7 @@ Cette page permet de d'écrire et de modifier le texte et les images.
 * **Crée un sous-titre :**``## sous-titre``
 * **etc... jusqu'a 6 sous-titre** ``######``
  
-
+ 
 * **Pour effectuer des retours a la ligne:**  ``<br>``
 
 
@@ -67,6 +69,7 @@ Cette page permet de d'écrire et de modifier le texte et les images.
  
 * **Ligne pour délimiter des parties:** ``-----``
 
+---------
 
 ## Image
 
