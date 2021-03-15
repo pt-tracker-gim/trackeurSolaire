@@ -2,9 +2,9 @@
 
 ### Panneau solaire 
 
-Panneau à 2 axes :<br>
+Panneau à 2 axes :
 Le tracker solaire, nous sert de source d’énergie électrique
-continue de caractéristique 12V/150W et de surface 2m². Il a pour
+continue de caractéristique 12 V/150W et de surface 2 m². Il a pour
 possibilité d’être monté sur deux axes motorisé permettant de
 suivre la course du soleil et ainsi optimiser son rendement.
 
@@ -31,14 +31,15 @@ Les moteurs solaires sont alimentés par une source externe, 12VDC, et peuvent
 résister à un vent de 130 km/h.
 
 
-## Boitier 3D<br>
+## Boitier 3D
+
 ### Conception du boitier d’étanchéité
 
 Le panneau solaire est fixé à un moteur, permettant de changer l’inclinaison
 de celui-ci. Ce moteur est lui-même fixé sur un boitier en aluminium, lui-même
 fixé au deuxième moteur permettant de gérer la rotation du panneau. Ce
-moteur est fixé à un tube support.<br>
-<br>
+moteur est fixé à un tube support.
+
 Le but de ce boitier est de protéger les deux moteurs de l’humidité et de la
 pluie, et aussi de renforcer la structure qui soutient le panneau. Le problème
 du précédent boitier est surtout l’étanchéité de celui-ci. En effet, les différentes
