@@ -13,7 +13,8 @@
 
 ## Éditer une page
 
-Pour éditer une page, il suffit d'ouvrir la page à modier et de cliquer sur le stylo. 
+**Pour éditer une page, il suffit d'ouvrir la page à modier et de cliquer sur le stylo.**
+
 
 ![Screenshot](pic/Modification_tuto/editer_page.PNG)
 
