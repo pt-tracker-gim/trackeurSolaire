@@ -55,17 +55,22 @@ Cette page permet de d'écrire et de modifier le texte et les images.
 * **Crée un sous-titre :**``## sous-titre``
 * **etc... jusqu'a 6 sous-titre** ``######``
  
+<br>
  
 * **Pour effectuer des retours a la ligne:**  ``<br>``
 
+<br>
 
 * **Texte en gras :** ``**texte**``
 
 * **Texte en italique:** ``*texte*``
 
+<br>
+
 * **Aligné un texte (center; left; right):**``<h4 align="center">texte</h4>``
   * H4 représente la taille du texte
  
+<br>
  
 * **Ligne pour délimiter des parties:** ``-----``
 
@@ -77,6 +82,7 @@ Cette page permet de d'écrire et de modifier le texte et les images.
    * **pic:** Dossier on sont stocker toutes les images.
    * **Dossier :** Indiquer le nom du dossier ou la photo est ranger. 
    * **Image :** nom de l'image.
+
 
 ![Screenshot](pic/logo_iut.png)
  
