@@ -74,9 +74,9 @@ Cette page permet de d'écrire et de modifier le texte et les images.
 ## Image
 
 * **Ajouter une image**: ``![Screenshot](pic/dossier/image.PNG)``
-   * pic: Dossier on sont stocker toutes les images.
-   * Dossier : Indiquer le nom du dossier ou la photo est ranger. 
-   * Image : nom de l'image.
+   * **pic:** Dossier on sont stocker toutes les images.
+   * **Dossier :** Indiquer le nom du dossier ou la photo est ranger. 
+   * **Image :** nom de l'image.
 
 ![Screenshot](pic/logo_iut.png)
  
