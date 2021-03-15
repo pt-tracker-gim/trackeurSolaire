@@ -105,3 +105,6 @@ mot de passe : ``tracker2020`` <br>
 
 Méthode pour créer un graphique 
 1. Créer une page (qui viendra se placer dans la vue)
+
+
+![Screenshot](pic/logo_iut.png)
