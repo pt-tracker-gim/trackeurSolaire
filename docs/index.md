@@ -42,4 +42,4 @@ Ce projet aura pour but d’être placer sur le toit du bâtiment de l’IUT afi
 * La réalisation de l’interface web sur Pyscada pour traiter les données mesurées et les exploiter. (2020-2021).  
 * Création de tuto qui reprennent la totalité du projet afin d’être utilisé par les année suivante. (2020-2021).  
 
-![Screenshot](pic/logo_iut.png)
+![Screenshot](pic/logo_iut.png)style="width:500px;height:600px;"
