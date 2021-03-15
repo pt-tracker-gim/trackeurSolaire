@@ -4,9 +4,9 @@
 
 ### Présentation
 
-Le logiciel de programmation utilisée se nomme Putty, dans ce logiciel il est possible de venir écrire des lignes de programme en **python** qui vont nous permettre  de venir **lire et échanger** avec un ordinateur à distance ( dans notre cas un Raspberry pi4) et obtenir des relevées sur un Pc connecté au même réseau que le Raspberry.
-<br>
-Avec ces programmes nous sommes maintenant capables de demander au Raspberry les valeurs mesurées avec la carte électroniques. 
+Le logiciel de programmation utilisée se nomme Putty, dans ce logiciel il est possible de venir écrire des lignes de programme en **python** qui vont nous permettre de venir **lire et échanger** avec un ordinateur à distance (dans notre cas un Raspberry pi4) et obtenir des relevées sur un Pc connecté au même réseau que le Raspberry.
+
+Avec ces programmes, nous sommes maintenant capables de demander au Raspberry les valeurs mesurées par la carte de mesure 
 
 -------------
 
@@ -48,41 +48,43 @@ Ouvrir un terminal et entrer la commande:
 -------------
 ### Commande sur PUTTY
 
-Une fois connecté sous putty ou ssh plusieurs commande de base sont a connaitre :
+Une fois connecté sous putty ou ssh plusieurs commandes de base sont à connaitre :
 
-* Pour lister un dossier: ``ls -l`` <br>
-En ecrivant cette commande on retrouve deux dossier (scripts_2019 et scripts_2020) qui regroupe tout les programmes qui vont nous etre utile pour le raspberry 
-<br>
+* Pour lister un dossier : ``ls -l`` 
+
+En écrivant cette commande on retrouve deux dossiers (scripts_2019 et scripts_2020) qui regroupe tout les programmes qui vont nous être utile pour le Raspberry 
+
 
 ![Screenshot](pic/partie_logiciel/ouvrir.png)
-<br>
 
-* Pour Rentrer dans le dossier, par exemple : ``ls -l scripts_2020/`` <br>
- voici les dosier present dans ce scripts
-<br>
+
+* Pour Rentrer dans le dossier, par exemple : ``ls -l scripts_2020/`` 
+ voici les dossiers présent dans ce script
+
 
 ![Screenshot](pic/partie_logiciel/lister.png)
-<br>
+
 
 * Pour éditer le fichier courant.py par exemple:``nano scripts_2020/courant.py``
-<br>
+
 
 ![Screenshot](pic/partie_logiciel/Script_tension.PNG)
 
 * Exécuter un fichier python (courant.py) dans scripts_2020 : ``python3 scripts_2020/courant.py<br>``
 
-* Pour copier un fichier par exemple (courant.py) du dossier scripts_2019 vers le dossier scripts_2020 : ``cp scripts_2019/courant.py scripts_2020/.``<br>
+* Pour copier un fichier par exemple (courant.py) du dossier scripts_2019 vers le dossier scripts_2020 : ``cp scripts_2019/courant.py scripts_2020/.``
 
-**D'autres Exemple de communication de base du python** :<br>
-<br>
+**D'autres Exemple de communication de base du python** :
+
 ``bus.read_byte_data(address, 0x27)`` est une commande qui nous permet en communiquant avec la
-Raspberry (bus) de lire une donnée en octet (read_byte_data).<br>
+Raspberry (bus) de lire une donnée en octet (read_byte_data).
+
 Pour cela, il faut préciser l’adresse de
 la carte de mesure que l’on veut interroger (address) ainsi que le registre que l’on veut lire qui est
-codé en valeur hexadécimale (0x27). <br>
+codé en valeur hexadécimale (0x27). 
 
 ``bus.write_byte_data(address, 0x27, 0xff)`` est une commande fonctionnant exactement comme la
-commande ci-dessus, elle sert à écrire une valeur dans un registre.<br>
+commande ci-dessus, elle sert à écrire une valeur dans un registre.
 
 
 -------------
@@ -92,15 +94,18 @@ commande ci-dessus, elle sert à écrire une valeur dans un registre.<br>
 Récupérer les données sur putty nous permettent ensuite de pouvoir les traiter grâce à un logiciel de supervision
 nommé PyScada. Avec ce logiciel, nous pouvons récupérer les valeurs de nos différentes cartes de
 mesure, puis les afficher en graphiques (ou autres), les enregistrer, et y avoir accès à tout moment et
-n’importe où.<br>
+n’importe où.
 
-**Méthode de connexion à Pyscada :**<br>
-1.  cliquer sur le lien si dessous 
-http://95.174.165.162:8090 <br>
+**Méthode de connexion à Pyscada :**
 
-2. Apres avoir cliquer sur le lien s'identifier <br>
- identifiant : ``PV``<br>
-mot de passe : ``tracker2020`` <br>
+1. Cliquer sur le lien si dessous 
+http://95.174.165.162:8090 
+
+2. Apres avoir cliquer sur le lien s'identifier 
+
+ identifiant : ``******``
+ 
+mot de passe : ``*******`` 
 
 
 Méthode pour créer un graphique 
