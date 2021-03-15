@@ -101,12 +101,12 @@ Déclinaison solaire= sin−1
 1934.136 × Julian Century)))
 La déclinaison solaire est en degré. On constate que de nouveau paramètres
 interviennent.
-Ainsi, pour parvenir à l’équation finale de l’élévation nous faisons appel à une
+Ainsi, pour parvenir à l’équation finale de l’élévation, nous faisons appel à une
 quinzaine d’équations imbriquées les unes dans les autres.
 
  Explication de l’équation de l’azimut
 L’équation finale qui permet de calculer l’azimut est une équation très
-complexe. Celle-ci diffère suivant l’angle horaire c’est-à-dire si l’angle horaire
+complexe. Celle-ci diffère suivant l’angle horaire, c'est-à-dire si l’angle horaire
 est supérieur à 0, une certaine équation sera applicable pour calculer l’azimut
 sinon on doit utiliser une autre équation. En plus de l’angle horaire, la latitude,
 la déclinaison du soleil et l’angle solaire zénithale interviennent dans
@@ -114,7 +114,7 @@ l’équation.
 Figure 4 : Angle horaire
 
 Licence Pro Écologie Industrielle 11
-Equation de l’azimut :
+Équation de l’azimut :
 Si angle horaire>0 : Acos[(sin(latitude)*cos (angle solaire zénithale) - sin
 (déclinaison du soleil)] /(cos(latitude)*sin (angle solaire zénithale)) +188)
 *2π/360 ;
