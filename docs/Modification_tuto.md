@@ -21,7 +21,7 @@ Dans le dossier **docs** , faire **add file** et **Create new file**.
 
 Entrer le nom du fichier et ajouter a la fin **.md**
 
-![Screenshot](pic/Modification_tuto/Crée_page.PNG)
+![Screenshot](pic/Modification_tuto/nom_page.PNG)
 
 ## Crée un dossier 
 
@@ -30,6 +30,7 @@ Mais pour pouvoir enregistrer il faut ajouter un fichier dans le dossier.
 Alors rajouter **Geetkeep.md**.
 
 ![Screenshot](pic/Modification_tuto/crée_dossier.PNG)
+
 
 ## Éditer une page
 
