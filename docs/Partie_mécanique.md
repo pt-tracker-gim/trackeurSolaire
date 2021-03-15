@@ -73,5 +73,5 @@ celui-ci.
 ![Screenshot](pic/partie_mecanique/boitierfinal.png) <br>
 
 
-
+![Screenshot](pic/logo_iut.png)
 
