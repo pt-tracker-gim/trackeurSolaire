@@ -6,7 +6,7 @@
 
   * **PDF:** Ce dossier regroupe tous les rapports en PDF.
   * **PIC:** Ce dossier regroupe toutes les photos utilisé pour les pages. 
-  * Les **.md** sont les differentes pages.
+  * Les **.md** sont les différentes pages.
   * Le fichier **Index** ...
 
 ![Screenshot](pic/Modification_tuto/Dossier_source.PNG)
@@ -79,7 +79,7 @@ Cette page permet de d'écrire et de modifier le texte et les images.
 ## Image
 
 * **Ajouter une image**: ``![Screenshot](pic/dossier/image.PNG)``
-   * **pic:** Dossier on sont stocker toutes les images.
+   * **pic:** Dossier où sont stocker toutes les images.
    * **Dossier :** Indiquer le nom du dossier ou la photo est ranger. 
    * **Image :** nom de l'image.
 
