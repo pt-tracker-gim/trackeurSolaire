@@ -15,3 +15,4 @@
 
 **Rapport 2020-2021**
 
+![Screenshot](pic/logo_iut.png)
