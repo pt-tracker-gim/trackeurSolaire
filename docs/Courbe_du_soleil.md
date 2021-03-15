@@ -143,3 +143,5 @@ observées peuvent différer des calculs.
 Les feuilles de calcul suivantes peuvent être utilisées pour calculer les données
 solaires d'un jour ou d'une année sur un site donné. Ils sont disponibles en format
 Microsoft Excel
+
+![Screenshot](pic/logo_iut.png)
