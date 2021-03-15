@@ -11,6 +11,7 @@
 
 ![Screenshot](pic/Modification_tuto/Dossier_source.PNG)
 
+---------
 
 ## Crée une page 
 
@@ -22,6 +23,8 @@ Dans le dossier **docs** , faire **add file** et **Create new file**.
 Entrer le nom du fichier et ajouter a la fin **.md**
 
 ![Screenshot](pic/Modification_tuto/nom_page.PNG)
+
+---------
 
 ## Crée un dossier 
 
