@@ -122,3 +122,6 @@ Les régulateurs de charge MPPT des panneaux solaires nécessitent, quant à eux
 <br>
 
 Remarque : Il existe aujourd’hui plusieurs régulateurs MPPT analogiques. Ils sont plus faciles à concevoir et moins coûteux à produire que les régulateurs MPPT numériques. Ces régulateurs améliorent le rendement des panneaux, mais leur efficacité est très variable. Il arrive qu’ils perdent leur point de puissance, engendrant ainsi un rendement très mauvais. Cela peut arriver de façon occasionnelle si un nuage passe au-dessus des panneaux solaires. Le circuit linéaire recherche alors le point de puissance suivant, se cale dessus, mais est incapable de revenir au point précédent lorsque le nuage disparaît et que le soleil revient. Heureusement, cela n’arrive pas trop souvent.
+
+
+![Screenshot](pic/logo_iut.png)
