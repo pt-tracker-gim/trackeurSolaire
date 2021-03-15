@@ -36,7 +36,7 @@ Ce projet aura pour but d’être placer sur le toit du bâtiment de l’IUT afi
 * La mise en place du Raspberry (micro-ordinateur) qui nous permet de faire l’acquisition des mesures à distance de valeurs à travers des cartes composées d’un capteur. Ainsi que de communiquer à distance grâce à une supervision. (2014-2015).  
 * La programmation en Python pour communiquer avec le Raspberry (mini-ordinateur) avec l’application Putty. (2014-2015).  
 * La conception d’un boîtier d’étanchéité pour les servomoteurs ainsi que les cartes électroniques et le module MPPT. (2018-2019) et amélioration en (2019-2020).  
-* Etude de l’emplacements des points de mesures sur le système afin d’obtenir les données nécessaires pour un suivi du point optimal de fonctionnement du panneau (2019-2020).  
+* Étude de l’emplacement des points de mesures sur le système afin d’obtenir les données nécessaires pour un suivi du point optimal de fonctionnement du panneau (2019-2020).  
 * Création du schéma de la carte électronique (2019-2020).  
 * Conception et test des cartes de mesures. (2020-2021).  
 * La réalisation de l’interface web sur Pyscada pour traiter les données mesurées et les exploiter. (2020-2021).  
