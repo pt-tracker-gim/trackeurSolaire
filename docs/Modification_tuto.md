@@ -27,7 +27,7 @@ Entrer le nom du fichier et ajouter a la fin **.md**
 
 Pour crée un dossier il faut refaire la meme manipulation que pour crée un fichier, mais au lieu d'ecrire **.md** il suffit de mettre un **/**. 
 Mais pour pouvoir enregistrer il faut ajouter un fichier dans le dossier. 
-Alors rajouter **Geetkeep.md**.
+Alors rajouter **getkeep.md**.
 
 ![Screenshot](pic/Modification_tuto/crée_dossier.PNG)
 
