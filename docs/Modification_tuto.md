@@ -11,9 +11,29 @@
 
 ![Screenshot](pic/Modification_tuto/Dossier_source.PNG)
 
+
+## Crée une page 
+
+Dans le dossier **docs** , faire **add file** et **Create new file**. 
+
+![Screenshot](pic/Modification_tuto/Crée_page.PNG)
+
+
+Entrer le nom du fichier et ajouter a la fin **.md**
+
+![Screenshot](pic/Modification_tuto/Crée_page.PNG)
+
+## Crée un dossier 
+
+Pour crée un dossier il faut refaire la meme manipulation que pour crée un fichier, mais au lieu d'ecrire **.md** il suffit de mettre un **/**. 
+Mais pour pouvoir enregistrer il faut ajouter un fichier dans le dossier. 
+Alors rajouter **Geetkeep.md**.
+
+![Screenshot](pic/Modification_tuto/crée_dossier.PNG)
+
 ## Éditer une page
 
-**Pour éditer une page, il suffit d'ouvrir la page à modier et de cliquer sur le stylo.**
+Pour éditer une page, il suffit d'ouvrir la page à modier et de cliquer sur le stylo.
 
 
 ![Screenshot](pic/Modification_tuto/editer_page.PNG)
