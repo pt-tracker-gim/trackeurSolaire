@@ -6,19 +6,16 @@
 
   * **PDF:** Ce dossier regroupe tous les rapports en PDF.
   * **PIC:** Ce dossier regroupe toutes les photos utilisé pour les pages. 
-  * Les différents **.md** sont les differentes pages.
+  * Les **.md** sont les differentes pages.
   * Le fichier **Index** ...
-  * Le fichier **Conf** ...
 
 ![Screenshot](pic/Modification_tuto/Dossier_source.PNG)
 
 ## Éditer une page
 
-Pour éditer une page, il suffit de cliquer sur le stylo. 
+Pour éditer une page, il suffit d'ouvrir la page à modier et de cliquer sur le stylo. 
 
 ![Screenshot](pic/Modification_tuto/editer_page.PNG)
- 
-<br>
 
 Cette page permet de d'écrire et de modifier le texte et les images.
 
@@ -30,12 +27,10 @@ Cette page permet de d'écrire et de modifier le texte et les images.
 * **Crée un titre :**``# titre``
 * **Crée un sous-titre :**``## sous-titre``
 * **etc... jusqu'a 6 sous-titre** ``######``
-
-<br>
+ 
 
 * **Pour effectuer des retours a la ligne:**  ``<br>``
 
-<br>
 
 * **Texte en gras :** ``**texte**``
 
@@ -44,7 +39,6 @@ Cette page permet de d'écrire et de modifier le texte et les images.
 * **Aligné un texte (center; left; right):**``<h4 align="center">texte</h4>``
   * H4 représente la taille du texte
  
- <br> 
  
 * **Ligne pour délimiter des parties:** ``-----``
 
