@@ -11,8 +11,9 @@ Elle se décompose en plusieurs partie :
 
 * **La partie logicielle:** Elle regroupe toutes les informations sur les différents logiciels de programmation utilisés.
 * **La partie mécanique :** Elle regroupe toutes les informations sur les pièces mécaniques qui composent le tracker.
+* **La partie électronique:** Elle regroupe toutes les informations sur les différents composants électroniques utilisés (raspberry...).
 * **Historique des années précédentes :** Elle regroupe tous les rapports de projet des anciens étudiants sur le projet.
-Alimenter la base de données : Elle expliquera comment ajouter des informations a cette base de données.
+* **Alimenter la base de données :** Elle expliquera comment ajouter des informations a cette base de données.
 
 ----------------
 
