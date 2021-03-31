@@ -1,6 +1,6 @@
 # Introduction
 
-## Présentation de la base de donées
+## Présentation du tuto
 
 
 Cette base de données aura pour but d’aider les futurs étudiants à poursuivre le projet du tracker photovoltaïque et de pouvoir compléter cette base afin d’aider les prochains étudiants.
