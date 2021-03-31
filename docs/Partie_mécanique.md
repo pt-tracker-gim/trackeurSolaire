@@ -1,4 +1,4 @@
-# Partie Matériel 
+# Partie Mécanique
 
 ### Panneau solaire 
 
