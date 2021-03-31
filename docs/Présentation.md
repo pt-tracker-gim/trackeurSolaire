@@ -3,7 +3,7 @@
 ## Présentation du tuto
 
 
-Cette base de données aura pour but d’aider les futurs étudiants à poursuivre le projet du tracker photovoltaïque et de pouvoir compléter cette base afin d’aider les prochains étudiants.
+Ce tuto aura pour but d’aider les futurs étudiants à poursuivre le projet du tracker photovoltaïque et de pouvoir compléter cette base afin d’aider les prochains étudiants.
 
 Elle reprendra le travail réalisé depuis le début de ce projet et des tutoriels qui permettent d’utiliser les différents logiciels.
 
