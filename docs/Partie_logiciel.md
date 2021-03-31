@@ -1,4 +1,4 @@
-# Partie logiciel
+# Partie Supervision
 
 ## Programmation du Raspberry (PUTTY)
 
