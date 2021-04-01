@@ -1,6 +1,6 @@
 # Introduction
 
-## Présentation du projet dans sa globalité
+### Présentation du projet dans sa globalité
 
 Le but de ce projet est d'installer un panneau solaire sur le toit de l’iut, ce panneau solaire aura la particularité d'être instrumenté c'est à dire qu'il pourra être piloté sur 2 axes grâce à deux servomoteurs. Ces deux servomoteurs piloteront le panneau selon sont azimut et son élévation pour lui permettre de suivre le soleil durant la journée et donc d'avoir l'angle de soleil optimale afin d’obtenir une production d’énergie optimale
 
