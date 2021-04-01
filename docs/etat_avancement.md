@@ -11,6 +11,7 @@
 
 Plusieurs tests on était réalisé sur un prototype de carte électronique que le deuxième groupe a étudier durant tout son projet.
 Les test ont amené a beaucoup d'échec mais on permit de faire avancer le projet pour les étudiants des années suivante. 
+
 Le deuxième groupe quant a lui a réalisé une interface graphique sur pyscada qui n'est pas complète du fait de la non-fabrication de la carte électronique 
 
 Ils ont également créer des tutos pour aider les étudiants des années suivantes
