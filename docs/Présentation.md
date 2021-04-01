@@ -1,19 +1,39 @@
 # Introduction
 
+## Presentation du projet dans sa globalité
 
+Dans le cadre de notre projet sur le tracker solaire nous sommes amenés à développer une interface permettant à un utilisateur de l'iut de visualiser des données concernant le tracker solaire et éventuellement de faire quelques manipulations sur celui-ci dans le cadre d'un TP
 
+Le département GIM de l’IUT de Bayonne dispose d’un panneau photovoltaïque monté sur un support, celui-ci est orientable sur 2 axes par la commande de deux servomoteurs (angle d’élévation et angle d’azimut). Ce qui permet de garder un alignement constant avec le soleil afin d’obtenir une production d’énergie optimale
+
+Ce projet aura pour but d’être placer sur le toit du bâtiment de l’IUT afin que les élèves du DUT GIM puissent faire des travaux pratiques dessus. 
+
+ ## Materiaux present sur le projet 
+ 
+ Ce projet contient plusieurs materiaux de taille differentes et de complexité multiples  , les materiaux principaux  a notre projet sont :
+ 
+ - Un raspberry:
+ Le raspberry est un nano-ordinateur monocarte à processeur ARM de la taille d'une carte de crédit , Le language de programmation utiliser est le language python, il va egalement nous permettre de generer des pages web..... 
+ 
+ - Une carte electronique
+ Un circuit imprimé est un support, en général une plaque, permettant de maintenir et de relier électriquement un ensemble de composants électroniques entre eux, dans le but de réaliser un circuit électronique complexe
+ 
+ - Un MPPT(Maximum Power Point Tracking)
+Le régulateur MPP ou un tracker MPP est un principe permettant de suivre, comme son nom l'indique, le point de puissance maximale d'un générateur électrique non linéaire.
+ 
+ - Un panneau solaire
+ Un panneau solaire est un dispositif convertissant une partie du rayonnement solaire en énergie thermique ou électrique, grâce à des capteurs solaires thermiques ou photovoltaïques respectivement
+ 
+ - Un Servomoteur
+ Un servomoteur est un moteur capable de maintenir une opposition à un effort statique et dont la position est vérifiée en continu et corrigée en fonction de la mesure
+ 
+ - Une batterie 
+ la batterie stocke pour une consommation différée. 
+ 
+ ## Partie supervision 
+ 
 ----------------
 
-## Contexte du projet 
-
-
-Le département GIM de l’IUT de Bayonne dispose d’un panneau photovoltaïque monté sur un support, celui-ci est orientable sur 2 axes par la commande de deux servomoteurs (angle d’élévation et angle d’azimut). Ce qui permet de garder un alignement constant avec le soleil afin d’obtenir une production d’énergie optimale.  
-
-Le projet existant depuis maintenant 7 ans.  
-
-Ce projet aura pour but d’être placer sur le toit du bâtiment de l’IUT afin que les élèves du DUT GIM puissent faire des travaux pratiques dessus.  
-
-----------------
 
 ## Annalyse de l'existant
 
