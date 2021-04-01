@@ -11,11 +11,13 @@ Elle reprendra le travail réalisé depuis le début de ce projet et des tutorie
 
 Elle se décompose en plusieurs partie :
 
-* **La partie logicielle:** Elle regroupe toutes les informations sur les différents logiciels de programmation utilisés.
+* **La partie supervision :** Elle regroupe toutes les informations sur les différents logiciels de programmation utilisés.
 * **La partie mécanique :** Elle regroupe toutes les informations sur les pièces mécaniques qui composent le tracker.
-* **La partie électronique:** Elle regroupe toutes les informations sur les différents composants électroniques utilisés (raspberry...).
+* **La partie électronique :** Elle regroupe toutes les informations sur les différents composants électroniques utilisés (raspberry...).
 * **Historique des années précédentes :** Elle regroupe tous les rapports de projet des anciens étudiants sur le projet.
-* **Alimenter la base de données :** Elle expliquera comment ajouter des informations a cette base de données.
+* **Equation du soleil :** Elle regroupe l'etude de l'equation du soleil avec la formule.
+* **Etat d'avancement :** Récapitulatif de l'avancer du projet avec ce qui a ete réalisée.
+* **Modification tuto :** Elle expliquera comment ajouter des informations a cette base de données.
 
 
 
