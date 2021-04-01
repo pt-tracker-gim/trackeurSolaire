@@ -12,22 +12,28 @@ Ce projet aura pour but d’être placer sur le toit du bâtiment de l’IUT afi
  
  Ce projet contient plusieurs materiaux de taille differentes et de complexité multiples  , les materiaux principaux  a notre projet sont :
  
- - Un raspberry:
+ **- Un raspberry:**
+ 
  Le raspberry est un nano-ordinateur monocarte à processeur ARM de la taille d'une carte de crédit , Le language de programmation utiliser est le language python, il va egalement nous permettre de generer des pages web..... 
  
- - Une carte electronique
+ **- Une carte electronique:**
+ 
  Un circuit imprimé est un support, en général une plaque, permettant de maintenir et de relier électriquement un ensemble de composants électroniques entre eux, dans le but de réaliser un circuit électronique complexe
  
- - Un MPPT(Maximum Power Point Tracking)
+ **- Un MPPT(Maximum Power Point Tracking):**
+ 
 Le régulateur MPP ou un tracker MPP est un principe permettant de suivre, comme son nom l'indique, le point de puissance maximale d'un générateur électrique non linéaire.
  
- - Un panneau solaire
+ **- Un panneau solaire:**
+ 
  Un panneau solaire est un dispositif convertissant une partie du rayonnement solaire en énergie thermique ou électrique, grâce à des capteurs solaires thermiques ou photovoltaïques respectivement
  
- - Un Servomoteur
+ **- Un Servomoteur:**
+ 
  Un servomoteur est un moteur capable de maintenir une opposition à un effort statique et dont la position est vérifiée en continu et corrigée en fonction de la mesure
  
- - Une batterie 
+ **- Une batterie:** 
+ 
  la batterie stocke pour une consommation différée. 
  
  ## Partie supervision 
