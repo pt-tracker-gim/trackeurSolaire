@@ -120,7 +120,7 @@ Sur Pyscada, un système de vue est instauré. Une vue englobe des pages et ces 
 
 
   
-		![Screenshot](pic/principe_vue.png)
+![Screenshot](pic/principe_vue.png)
   
 Les widgets permettent d'afficher le contenu que l'utilisateur souhaite afficher dans une page, selon l'ordre d'apparition **(row)**, le positionnement partie gauche ou droite **(col)** et la largeur du contenu **(size)**. Nous verrons cette fonctionnalité plus en détail dans la partie IHM.
 
