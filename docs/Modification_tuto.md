@@ -15,10 +15,9 @@ Elle se décompose en plusieurs partie :
 * **La partie mécanique :** Elle regroupe toutes les informations sur les pièces mécaniques qui composent le tracker.
 * **La partie électronique :** Elle regroupe toutes les informations sur les différents composants électroniques utilisés (raspberry...).
 * **Historique des années précédentes :** Elle regroupe tous les rapports de projet des anciens étudiants sur le projet.
-* **Equation du soleil :** Elle regroupe l'etude de l'equation du soleil avec la formule.
-* **Etat d'avancement :** Récapitulatif de l'avancer du projet avec ce qui a ete réalisée.
-* **Modification tuto :** Elle expliquera comment ajouter des informations a cette base de données.
-
+* **Équation du soleil :** Elle regroupe l'étude de l'équation du soleil avec la formule.
+* **État d'avancement :** Récapitulatif de l'avancée du projet avec ce qui a été réalisée.
+* **Modification tuto :** Elle expliquera comment ajouter des informations à cette base de données.
 
 
 
@@ -26,7 +25,7 @@ Elle se décompose en plusieurs partie :
 
 ### Dossier source
 
-  * **PDF:** Ce dossier regroupe tous les rapports en PDF.
+ * **PDF:** Ce dossier regroupe tous les rapports en PDF.
   * **PIC:** Ce dossier regroupe toutes les photos utilisé pour les pages. 
   * Les **.md** sont les différentes pages.
   * Le fichier **Index** ...
@@ -51,7 +50,7 @@ Entrer le nom du fichier et ajouter a la fin **.md**
 
 ## Crée un dossier 
 
-Pour crée un dossier il faut refaire la meme manipulation que pour crée un fichier, mais au lieu d'ecrire **.md** il suffit de mettre un **/**. 
+Pour crée un dossier il faut refaire la même manipulation que pour crée un fichier, mais au lieu d'écrire **.md** il suffit de mettre un **/**. 
 Mais pour pouvoir enregistrer il faut ajouter un fichier dans le dossier. 
 Alors rajouter **getkeep.md**.
 
@@ -61,7 +60,7 @@ Alors rajouter **getkeep.md**.
 
 ## Éditer une page
 
-Pour éditer une page, il suffit d'ouvrir la page à modier et de cliquer sur le stylo.
+Pour éditer une page, il suffit d'ouvrir la page à modifier et de cliquer sur le stylo.
 
 
 ![Screenshot](pic/Modification_tuto/editer_page.PNG)
@@ -78,22 +77,22 @@ Cette page permet de d'écrire et de modifier le texte et les images.
 * **Crée un sous-titre :**``## sous-titre``
 * **etc... jusqu'a 6 sous-titre** ``######``
  
-<br>
+
  
 * **Pour effectuer des retours a la ligne:**  ``<br>``
 
-<br>
+
 
 * **Texte en gras :** ``**texte**``
 
 * **Texte en italique:** ``*texte*``
 
-<br>
+
 
 * **Aligné un texte (center; left; right):**``<h4 align="center">texte</h4>``
   * H4 représente la taille du texte
  
-<br>
+
  
 * **Ligne pour délimiter des parties:** ``-----``
 
@@ -105,6 +104,7 @@ Cette page permet de d'écrire et de modifier le texte et les images.
    * **pic:** Dossier où sont stocker toutes les images.
    * **Dossier :** Indiquer le nom du dossier ou la photo est ranger. 
    * **Image :** nom de l'image.
+
 
 
 ![Screenshot](pic/logo_iut.png)
