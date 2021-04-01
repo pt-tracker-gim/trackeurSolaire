@@ -12,7 +12,7 @@ Ce projet est déjà en place depuis déjà 7 ans ce qui en fait un projet très
 
 
 
- ## Matériaux présent sur le projet 
+ ### Matériaux présent sur le projet 
  
  Ce projet contient plusieurs matériaux de taille différentes et de complexité multiples, les matériaux principaux à notre projet sont :
  
@@ -40,7 +40,7 @@ Le régulateur MPP ou un tracker MPP est un principe permettant de suivre, comme
  
  La batterie stocke l'énergie pour une consommation différée. 
  
- ## Partie supervision 
+ ### Partie supervision 
  
  La partie supervision sera réalisée par pyscada, pyscada est une page web généré par le micro-ordinateur (raspberry), sur cette supervision il sera possible d'avoir des relevées de mesures (tension, courant, énergies, puissance) des différents points de mesure de la carte électronique.
  Il sera également possible de piloter le tracker solaire
