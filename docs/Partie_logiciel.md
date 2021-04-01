@@ -168,28 +168,28 @@ Voici l'exemple de nos controls items:
 
 Le control panel sert à afficher sur l'interface utilisateur la valeur de plusieurs control items.
 				
-[Screenshot](pic/control_panel.PNG)
+![Screenshot](pic/control_panel.PNG)
 
 ### Créer un graphique
 
 
 Dans la page d'accueil, cliquez sur **Add** dans la ligne *charts*, puis ajoutez les variables qu'il y aura sur le graphique.
 
-[Screenshot](pic/add_chart.PNG)
+![Screenshot](pic/add_chart.PNG)
 
 Exemple du rendu d'un graphique: Température en fonction du temps.
 
-[Screenshot](pic/exemple_graphique.PNG)
+![Screenshot](pic/exemple_graphique.PNG)
 
 ### Modélisation de la page
 
 Une fois que les éléments sont créés, l'outil Widget sera nécessaire pour choisir ce qui apparaitra sur l'interface utilisateur.
 
-[Screenshot](pic/Widget.PNG)		
+![Screenshot](pic/Widget.PNG)		
 		
 Cette page permet d'afficher les controls items définis précédemment. On définit la rangée **(row)**, la colonne **(col)** et la taille **(size)** du contenu qui sera affiché.
 
-[Screenshot](pic/add_widget.PNG)		
+![Screenshot](pic/add_widget.PNG)		
 		
 Le contenu de la rangée 1 apparaîtra en haut de la page, la dernière rangée en bas de la page. Pour les colonnes, la 1ère se situe la plus a gauche et la 4ème la plus à droite. Pour la taille vous avez le choix entre 4 formats: 1/4 qui prendra 1/4 de la rangée. 2/4 pour la moitié de la rangée et ainsi de suite jusqu'à 4/4 pour que le contenu choisi prenne la place d'une rangée complète.
 
