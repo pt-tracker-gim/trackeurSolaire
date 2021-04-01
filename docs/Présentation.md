@@ -16,7 +16,7 @@ Ce projet est déjà en place depuis déjà 7 ans ce qui en fait un projet très
  
  Ce projet contient plusieurs matériaux de taille différentes et de complexité multiples, les matériaux principaux à notre projet sont :
  
- **- Un raspberry : **
+ **- Un raspberry :**
  
  Le raspberry est un nano-ordinateur mono carte à processeur ARM de la taille d'une carte de crédit, Le langage de programmation utiliser est le langage python, il va également nous permettre de générer des pages web…. 
  
