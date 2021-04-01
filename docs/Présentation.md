@@ -34,9 +34,11 @@ Le régulateur MPP ou un tracker MPP est un principe permettant de suivre, comme
  
  **- Une batterie:** 
  
- la batterie stocke pour une consommation différée. 
+ la batterie stocke l'energie pour une consommation différée. 
  
  ## Partie supervision 
+ 
+ La partie supervision sera realisé par pyscada , pyscada est une page web generé par le micro-ordinateur (raspberry)
  
 ----------------
 
