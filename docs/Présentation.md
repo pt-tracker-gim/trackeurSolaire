@@ -1,6 +1,6 @@
 # Introduction
 
-### Présentation du projet dans sa globalité
+## Présentation du projet dans sa globalité
 
 Le but de ce projet est d'installer un panneau solaire sur le toit de l’iut, ce panneau solaire aura la particularité d'être instrumenté c'est à dire qu'il pourra être piloté sur 2 axes grâce à deux servomoteurs. Ces deux servomoteurs piloteront le panneau selon sont azimut et son élévation pour lui permettre de suivre le soleil durant la journée et donc d'avoir l'angle de soleil optimale afin d’obtenir une production d’énergie optimale
 
@@ -10,8 +10,8 @@ Il y aura la mise en place d'un TP à distance sur les ordinateurs de l'iut pour
 
 Ce projet est déjà en place depuis déjà 7 ans ce qui en fait un projet très complexe avec énormément de modification depuis le début 
 
-
 ### Matériaux présent sur le projet 
+
  
  Ce projet contient plusieurs matériaux de taille différentes et de complexité multiples, les matériaux principaux à notre projet sont :
  
@@ -39,7 +39,8 @@ Le régulateur MPP ou un tracker MPP est un principe permettant de suivre, comme
  
  La batterie stocke l'énergie pour une consommation différée. 
  
-### Partie supervision 
+### Partie supervision  
+
  
  La partie supervision sera réalisée par pyscada, pyscada est une page web généré par le micro-ordinateur (raspberry), sur cette supervision il sera possible d'avoir des relevées de mesures (tension, courant, énergies, puissance) des différents points de mesure de la carte électronique.
  Il sera également possible de piloter le tracker solaire
