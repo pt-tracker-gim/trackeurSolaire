@@ -6,7 +6,7 @@ Le but de ce projet est d'installer un panneau solaire sur le toit de l’iut, c
 
 L'énergie produite par ce panneau n'est pas reliée au réseau elle sera utilisée pour charger une batterie mais également alimenter notre raspberry et pourra aussi être utilisé pour brancher un auxiliaire.
 De ce fait il nous a été demandé de développer une interface graphique permettant à un utilisateur de l'iut de visualiser des données concernant le tracker solaire et éventuellement de faire quelques manipulations sur celui-ci dans le cadre d'un TP
-Il y aura la mise en place d'un TP à distance sur les ordinateurs de l'iut pour étudier ce panneau pour les étudiants.
+ à distance pour étudier ce panneau .
 
 Ce projet est déjà en place depuis déjà 7 ans ce qui en fait un projet très complexe avec énormément de modification depuis le début 
 
