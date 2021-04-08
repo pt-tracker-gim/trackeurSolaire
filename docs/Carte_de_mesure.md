@@ -1,26 +1,34 @@
 # Carte de mesure 
 
 
-3. Carte de mesure
+## Carte de mesure
+
 Cette carte électronique de mesure sera le lien entre le raspberry et les points de mesure du système. Il est le cœur du projet car le but premier et de faire un TP pour les étudiant donc les mesures sont indispensables.
-1. Processus d'installation :
+
+### Processus d'installation :
+
 Pour cette partie nous allons vous explique comment nous fabriquer une carte de mesure de A à Z,
 Avant même de commencer nous avons fait un inventaire des composants disponibles pour finir ce que le groupe antérieur avait commencé.
 Après cela nous avons pu commencer la pose des composants CMS. En effet deux type de composant compose notre carte les “CMS” et les “traversants”
 Les composants CMS sont les plus petits et les plus difficiles à poser. C’est un travail minutieux et rigoureux car un composant mal placé et un composant HS.
+
 Pour réaliser cette tâche le plus sûrement possible deux outils sont indispensable, le microscope électronique et le poseur de composant manuel.
 De plus la pose des composants CMS ce fait à l'aide de pâte à braser envoyer grâce à de l'air sous pression. 
 Un passage au four est obligatoire pour pouvoir cuire les composants CMS. Par la suite, nous pourrons poser les composants traversant avec un fer à souder classique.
-2. Les problèmes rencontrées :
+
+### Les problèmes rencontrées :
+
 Trois problématiques se sont posées après avoir fini la première version de la carte proposée par les étudiants de l'année précédente.
 L’alimentation du raspberry 3.3 ou 5v?
 Le compteur d'énergie bidirectionnel de la batterie
 Respecter le temps d'éteignage du raspberry
 
 
-Problème 1 : L’alimentation du raspberry
+**Problème 1 : L’alimentation du raspberry**
 L'alimentation du raspberry était prévue de base en 3.3V. Mais après l'étude du composant nous avons pu voir que le raspberry pouvait transformer lui-même le 3.3V, il suffisait d’envoyer du 5V. Pour cela nous avons dû refaire des calculs, et voir la datasheet du composant, effectivement à la sortie de l’alimentation il y a un pont diviseur qui nous permet d’obtenir la tension souhaitée. Les étudiants de l’année dernière ont calculé un pont diviseur pour une tension égale à 3.3V, ainsi la datasheet du composant nous permettra de calculer la tension choisie.
 la formule du constructeur nous dit:
+
+![Screenshot](pic/logo_iut.png)
 
 Rb = 0.8Rt / Vout - 0.8
 Nous avons gardé 39k pour Rt, on trouve donc Rb = 7.4k
@@ -33,7 +41,7 @@ Ancien Schéma : 					Nouveau Schéma :
 
 Cette nouvelle carte permettra de répondre aux deux problèmes suivants.
 
-Problème 2 : Le compteur d'énergie bidirectionnel pour la batterie
+**Problème 2 : Le compteur d'énergie bidirectionnel pour la batterie**
 Cette mesure  est indispensable pour pouvoir connaître le courant d’entrée et de sortie de batterie relier au MPPT. Toutes les mesures sont effectuées grâce aux composants LTC 2946 
 Un premier test de cette partie du système a été effectué sur des petites cartes de prototype,  en testant la bidirectionnalité des mesures et la communication entre le raspberry et et la carte de mesure en protocole I2C.
 Ce premier test ne fut pas une réussite, en effet ces fameux composants sont très fragiles et ont été exposés à de forte chaleur à cause des modifications sur les composants de mesure. De plus le contact entre les deux capteurs n’était pas bon et la bidirectionnalité ne se faisait pas entre les 2 cartes de mesures prototype.
@@ -69,7 +77,7 @@ NC     H
 
 Cette connaissance de l’adressage des composants de mesure est importante pour la répartition des ces composants selon leurs type de prise de mesure.
 
-Problème 3 : Respecter le temps d'éteignage du raspberry
+**Problème 3 : Respecter le temps d'éteignage du raspberry**
 Le raspberry est un mini ordinateur, nous avons besoin de lui pour transmettre les mesures sur une interface graphique. Cependant comme tout ordinateur, il doit s’éteindre le plus sagement possible. Pour cela nous avons dû faire des calculs pour nous permettre de respecter ce temps d’éteignage.
 L’idée est de mettre un condensateur, en amont de l'alimentation à découpage pour permettre au raspberry de ne pas s'éteindre brusquement.
 
