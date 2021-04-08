@@ -2,10 +2,10 @@
 
 
 
-## Présentation du tuto
+## Présentation du site
 
 
-Ce tuto aura pour but d’aider les futurs étudiants à poursuivre le projet du tracker photovoltaïque et de pouvoir compléter cette base afin d’aider les prochains étudiants.
+Ce site aura pour but d’aider les futurs étudiants à poursuivre le projet du tracker photovoltaïque et de pouvoir compléter cette base afin d’aider les prochains étudiants.
 
 Elle reprendra le travail réalisé depuis le début de ce projet et des tutoriels qui permettent d’utiliser les différents logiciels.
 
@@ -17,7 +17,7 @@ Elle se décompose en plusieurs partie :
 * **Historique des années précédentes :** Elle regroupe tous les rapports de projet des anciens étudiants sur le projet.
 * **Équation du soleil :** Elle regroupe l'étude de l'équation du soleil avec la formule.
 * **État d'avancement :** Récapitulatif de l'avancée du projet avec ce qui a été réalisée.
-* **Modification tuto :** Elle expliquera comment ajouter des informations à cette base de données.
+* **Modification du site :** Elle expliquera comment ajouter des informations à cette base de données.
 
 
 
