@@ -1,7 +1,6 @@
 # Carte de mesure 
 
 
-## Carte de mesure
 
 Cette carte électronique de mesure sera le lien entre le raspberry et les points de mesure du système. Il est le cœur du projet car le but premier et de faire un TP pour les étudiant donc les mesures sont indispensables.
 
@@ -28,7 +27,7 @@ Respecter le temps d'éteignage du raspberry
 L'alimentation du raspberry était prévue de base en 3.3V. Mais après l'étude du composant nous avons pu voir que le raspberry pouvait transformer lui-même le 3.3V, il suffisait d’envoyer du 5V. Pour cela nous avons dû refaire des calculs, et voir la datasheet du composant, effectivement à la sortie de l’alimentation il y a un pont diviseur qui nous permet d’obtenir la tension souhaitée. Les étudiants de l’année dernière ont calculé un pont diviseur pour une tension égale à 3.3V, ainsi la datasheet du composant nous permettra de calculer la tension choisie.
 la formule du constructeur nous dit:
 
-![Screenshot](pic/logo_iut.png)
+![Screenshot](pic/logo_iut/carte_mesure/calcul_1.png)
 
 Rb = 0.8Rt / Vout - 0.8
 Nous avons gardé 39k pour Rt, on trouve donc Rb = 7.4k
